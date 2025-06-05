@@ -8,14 +8,36 @@ from Bio.Blast import NCBIWWW, NCBIXML
 from io import StringIO
 from openpyxl import load_workbook
 import xml.etree.ElementTree as ET
+import urllib.error
+import argparse
+
+# ─── ARGUMENT PARSING ─────────────────────────────────────────────
+parser = argparse.ArgumentParser(
+    description="Run BLASTn annotation on a FASTA file or use GenBank accessions to annotate previously generated hits."
+)
+parser.add_argument(
+    "-i", "--input", type=str, default="ONT_and_Porechop_adapters_and_barcodes_CLEANED.fasta",
+    help="Input FASTA file with adapter/barcode sequences (default: ONT_and_Porechop_adapters_and_barcodes_CLEANED.fasta)"
+)
+parser.add_argument(
+    "-o", "--output", type=str, default="shortblast_outputs",
+    help="Output directory where BLAST and annotation results will be stored (default: shortblast_outputs)"
+)
+parser.add_argument(
+    "-s", "--search_target", type=str,
+    help="Optional FASTA file to search for adapters locally instead of BLASTing against GenBank"
+)
+args = parser.parse_args()
+
+# Assign search_target argument
+search_target = args.search_target
 
 # ─── CONFIGURATION ────────────────────────────────────────────────
-# In local file it was the version "1.2_New_search_complete.py"
 Entrez.email = "florenmartino@gmail.com"
 Entrez.api_key = "36bf13267a495a3f7007c3a8d386587e0308"
 
-input_fasta = "ONT_and_Porechop_adapters_and_barcodes_CLEANED.fasta"
-output_dir = "shortblast_outputs"
+input_fasta = args.input
+output_dir = args.output
 min_length = 8
 final_excel = "Combined_BLAST_Report.xlsx"
 matrix_file = "Accession_vs_Adapters_Matrix.xlsx"
@@ -31,7 +53,10 @@ print("[STEP 1] Running BLASTn and saving .tsv tables (skip existing)")
 for record in SeqIO.parse(input_fasta, "fasta"):
     seq_id = record.id
     seq = str(record.seq)
-    table_path = os.path.join(output_dir, f"{seq_id}_description_table.tsv")
+    clean_id = re.sub(r"[^a-zA-Z0-9]+", "_", seq_id)
+    suffix = f"_{seq}" if len(seq) < 100 else f"_{seq[:50]}[...]"
+    table_filename = f"{clean_id}{suffix}_description_table.tsv"
+    table_path = os.path.join(output_dir, table_filename)
 
     if os.path.exists(table_path):
         print(f"[SKIP] {seq_id}: already processed")
@@ -43,40 +68,63 @@ for record in SeqIO.parse(input_fasta, "fasta"):
 
     print(f"[INFO] BLASTing {seq_id} ({len(seq)} bp)...")
     try:
-        result_handle = NCBIWWW.qblast(
-            program="blastn",
-            database="nt",
-            sequence=seq,
-            expect=1000,
-            word_size=7,
-            short_query=True,
-            hitlist_size=50,
-            format_type="XML"
-        )
-        blast_data = result_handle.read()
-        result_handle.close()
-        blast_record = NCBIXML.read(StringIO(blast_data))
+        if search_target:
+            from Bio import pairwise2
+            target_seqs = {rec.id: str(rec.seq) for rec in SeqIO.parse(search_target, "fasta")}
+            best_hit = None
+            best_score = 0
+            for target_id, target_seq in target_seqs.items():
+                alignments = pairwise2.align.localms(seq, target_seq, 2, -1, -0.5, -0.1)
+                if alignments:
+                    score = alignments[0].score
+                    if score > best_score:
+                        best_score = score
+                        best_hit = (target_id, score, alignments[0])
+            with open(table_path, "w") as out:
+                out.write("Accession\tLength\tE-value\tDefinition\tOrganism\tquery_start\tquery_end\tsubject_start\tsubject_end\n")
+                if best_hit:
+                    aln = best_hit[2]
+                    out.write(f"{best_hit[0]}\t{len(aln.seqB)}\tNA\tLocal_match\tNA\t{aln.start}\t{aln.end}\tNA\tNA\n")
+                else:
+                    out.write("NA\tNA\tNA\tNo_match_found\tNA\tNA\tNA\tNA\tNA\n")
+            print(f"[OK] Local search saved: {table_path}")
+        else:
+            result_handle = NCBIWWW.qblast(
+                program="blastn",
+                database="nt",
+                sequence=seq,
+                expect=1000,
+                word_size=7,
+                short_query=True,
+                hitlist_size=50,
+                format_type="XML"
+            )
+            blast_data = result_handle.read()
+            result_handle.close()
+            blast_record = NCBIXML.read(StringIO(blast_data))
 
-        with open(table_path, "w") as out:
-            out.write("Accession\tLength\tE-value\tDefinition\tOrganism\tquery_start\tquery_end\tsubject_start\tsubject_end\n")
-            for alignment in blast_record.alignments:
-                for hsp in alignment.hsps:
-                    acc_match = re.search(r"\|(ref|gb|dbj|emb)\|([^\|]+)\|", alignment.hit_id)
-                    accession = acc_match.group(2) if acc_match else alignment.hit_id
-                    title = alignment.title
-                    definition, organism = (title.rsplit(" [", 1) + ["NA"])[:2]
-                    organism = organism.rstrip("]")
+            with open(table_path, "w") as out:
+                out.write("Accession\tLength\tE-value\tDefinition\tOrganism\tquery_start\tquery_end\tsubject_start\tsubject_end\n")
+                for alignment in blast_record.alignments:
+                    for hsp in alignment.hsps:
+                        acc_match = re.search(r"\|(ref|gb|dbj|emb)\|([^\|]+)\|", alignment.hit_id)
+                        accession = acc_match.group(2) if acc_match else alignment.hit_id
+                        title = alignment.title
+                        definition, organism = (title.rsplit(" [", 1) + ["NA"])[:2]
+                        organism = organism.rstrip("]")
 
-                    out.write(f"{accession}\t{alignment.length}\t{hsp.expect:.2e}\t{definition}\t{organism}\t{hsp.query_start}\t{hsp.query_end}\t{hsp.sbjct_start}\t{hsp.sbjct_end}\n")
-                    break
-        print(f"[OK] Saved: {table_path}")
+                        out.write(f"{accession}\t{alignment.length}\t{hsp.expect:.2e}\t{definition}\t{organism}\t{hsp.query_start}\t{hsp.query_end}\t{hsp.sbjct_start}\t{hsp.sbjct_end}\n")
+                        break
+            print(f"[OK] Saved: {table_path}")
     except Exception as e:
         print(f"[ERROR] {seq_id}: {e}")
 
 # ─── PART 2: GENBANK METADATA RETRIEVAL ───────────────────────────
-print("\n[STEP 2] Annotating accessions from GenBank (skip existing)")
+print(f"\n[STEP 2] Annotating accessions from GenBank — saving state to: {os.path.abspath(partial_pickle)}")
 not_found = set()
 all_hits = []
+
+accession_cache = {}
 
 if os.path.exists(partial_pickle):
     print(f"[INFO] Resuming from previous partial state: {partial_pickle}")
@@ -91,20 +139,52 @@ else:
         if df.empty or "Accession" not in df.columns:
             continue
 
-        df["Source_File"] = file.replace("_description_table.tsv", "")
+        df["Source_File"] = os.path.splitext(file)[0]
         print(f"[INFO] Annotating {file} ({len(df)} hits)")
 
         annotations = []
 
         for i, acc in enumerate(df["Accession"], 1):
             acc_clean = acc.split("|")[-1]
-            print(f"  [{i}/{len(df)}] Fetching metadata for {acc_clean}...", end="")
+            if acc_clean in accession_cache:
+                annotations.append(accession_cache[acc_clean])
+                print(f"  [{i}/{len(df)}] Using cached metadata for {acc_clean}")
+                continue
+            print(f"  [{i}/{len(df)}] Fetching metadata for {acc_clean}...", end="", flush=True)
+
+            max_retries = 3
+            for attempt in range(max_retries):
+                try:
+                    handle = Entrez.efetch(db="nucleotide", id=acc_clean, retmode="xml")
+                    xml_data = handle.read()
+                    handle.close()
+                    break  # successful fetch
+                except urllib.error.HTTPError as e:
+                    print(f" RETRY {attempt+1} (HTTPError: {e.code})", end="", flush=True)
+                    time.sleep(2 * (attempt + 1))
+                except Exception as e:
+                    print(f" RETRY {attempt+1} (Error: {e})", end="", flush=True)
+                    time.sleep(2 * (attempt + 1))
+            else:
+                print(" FETCH ERROR")
+                not_found.add(acc_clean)
+                annotations.append({
+                    "Accession": acc,
+                    "Description": "",
+                    "Taxonomy": "",
+                    "Accession Length": "",
+                    "Sequencing Technology": "",
+                    "Molecule Type": "",
+                    "Topology": "",
+                    "Assembly": ""
+                })
+                continue
+
             try:
-                handle = Entrez.efetch(db="nuccore", id=acc_clean, retmode="xml")
-                xml_data = handle.read()
-                handle.close()
                 root = ET.fromstring(xml_data)
                 gbseq = root.find(".//GBSeq")
+                if gbseq is None:
+                    raise ValueError("No GBSeq found in XML response")
 
                 def get_text(tag):
                     el = gbseq.find(tag)
@@ -125,10 +205,12 @@ else:
                     "Topology": get_text("GBSeq_topology"),
                     "Assembly": get_text("GBSeq_comment") if "assembly" in comment else ""
                 }
+                accession_cache[acc_clean] = metadata
                 annotations.append(metadata)
                 print(" OK")
-            except Exception as e:
-                print(" FAILED")
+
+            except Exception as parse_err:
+                print(f" PARSE ERROR: {parse_err}")
                 not_found.add(acc_clean)
                 annotations.append({
                     "Accession": acc,
