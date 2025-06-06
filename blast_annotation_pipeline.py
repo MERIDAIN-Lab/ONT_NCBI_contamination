@@ -81,12 +81,12 @@ for record in SeqIO.parse(input_fasta, "fasta"):
                         best_score = score
                         best_hit = (target_id, score, alignments[0])
             with open(table_path, "w") as out:
-                out.write("Accession\tLength\tE-value\tDefinition\tOrganism\tquery_start\tquery_end\tsubject_start\tsubject_end\n")
+                out.write("Accession\tLength\tE-value\tDefinition\tOrganism\tTaxonomy\tquery_start\tquery_end\tsubject_start\tsubject_end\n")
                 if best_hit:
                     aln = best_hit[2]
-                    out.write(f"{best_hit[0]}\t{len(aln.seqB)}\tNA\tLocal_match\tNA\t{aln.start}\t{aln.end}\tNA\tNA\n")
+                    out.write(f"{best_hit[0]}\t{len(aln.seqB)}\tNA\tLocal_match\tNA\tNA\t{aln.start}\t{aln.end}\tNA\tNA\n")
                 else:
-                    out.write("NA\tNA\tNA\tNo_match_found\tNA\tNA\tNA\tNA\tNA\n")
+                    out.write("NA\tNA\tNA\tNo_match_found\tNA\tNA\tNA\tNA\tNA\tNA\n")
             print(f"[OK] Local search saved: {table_path}")
         else:
             result_handle = NCBIWWW.qblast(
@@ -104,16 +104,25 @@ for record in SeqIO.parse(input_fasta, "fasta"):
             blast_record = NCBIXML.read(StringIO(blast_data))
 
             with open(table_path, "w") as out:
-                out.write("Accession\tLength\tE-value\tDefinition\tOrganism\tquery_start\tquery_end\tsubject_start\tsubject_end\n")
+                out.write("Accession\tLength\tE-value\tDefinition\tOrganism\tTaxonomy\tquery_start\tquery_end\tsubject_start\tsubject_end\n")
                 for alignment in blast_record.alignments:
                     for hsp in alignment.hsps:
                         acc_match = re.search(r"\|(ref|gb|dbj|emb)\|([^\|]+)\|", alignment.hit_id)
                         accession = acc_match.group(2) if acc_match else alignment.hit_id
                         title = alignment.title
-                        definition, organism = (title.rsplit(" [", 1) + ["NA"])[:2]
-                        organism = organism.rstrip("]")
+                        try:
+                            gi_part = title.split("|", 4)[-1].strip()
+                            if " [" in gi_part:
+                                definition, organism = gi_part.rsplit(" [", 1)
+                                organism = organism.rstrip("]")
+                            else:
+                                definition = gi_part
+                                organism = "NA"
+                        except Exception:
+                            definition = title
+                            organism = "NA"
 
-                        out.write(f"{accession}\t{alignment.length}\t{hsp.expect:.2e}\t{definition}\t{organism}\t{hsp.query_start}\t{hsp.query_end}\t{hsp.sbjct_start}\t{hsp.sbjct_end}\n")
+                        out.write(f"{accession}\t{alignment.length}\t{hsp.expect:.2e}\t{definition}\t{organism}\tNA\t{hsp.query_start}\t{hsp.query_end}\t{hsp.sbjct_start}\t{hsp.sbjct_end}\n")
                         break
             print(f"[OK] Saved: {table_path}")
     except Exception as e:
@@ -227,6 +236,9 @@ else:
 
         ann_df = pd.DataFrame(annotations)
         df = df.merge(ann_df, on="Accession", how="left")
+        # Overwrite the original .tsv file with the enriched DataFrame
+        enriched_output_path = os.path.join(output_dir, file)
+        df.to_csv(enriched_output_path, sep="\t", index=False)
         all_hits.append(df)
 
     all_hits = pd.concat(all_hits, ignore_index=True)
@@ -241,8 +253,16 @@ with pd.ExcelWriter(final_excel, engine="openpyxl") as writer:
     presence = all_hits.groupby(["Accession", "Source_File"]).size().unstack(fill_value=0)
     presence = presence.applymap(lambda x: "✓" if x > 0 else "")
 
-    meta_cols = ["Accession", "Description", "Taxonomy", "Accession Length",
-                 "Sequencing Technology", "Molecule Type", "Topology", "Assembly"]
+    print("Available columns in all_hits before exporting Excel:")
+    print(all_hits.columns.tolist())
+
+    meta_cols = [col for col in ["Accession", "Description", "Taxonomy", "Accession Length",
+                                 "Sequencing Technology", "Molecule Type", "Topology", "Assembly"]
+                 if col in all_hits.columns]
+
+    if not meta_cols:
+        raise ValueError("No metadata columns available to build summary. Check earlier steps.")
+
     metadata = all_hits[meta_cols].drop_duplicates(subset="Accession").set_index("Accession")
     matrix_df = metadata.join(presence)
     matrix_df.to_excel(writer, sheet_name="Presence_Matrix")
