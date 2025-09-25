@@ -8,7 +8,7 @@ All database queries for the published analysis were completed on 23 September 2
 
 ## Repository contents
 
-- `v3Sept2025_BLAST_pipeline_final_with_nanopore_check.py` – standalone Python script that orchestrates the complete annotation
+- `BLAST_pipeline_nanopore_contamination.py` – standalone Python script that orchestrates the complete annotation
   workflow, from Entrez harvesting to short BLASTn searches and reporting.
 - `ONT_and_Porechop_adapters_and_barcodes_CLEANED.fasta` – curated ONT adapter and barcode reference sequences screened against
   the NCBI nucleotide collection.
