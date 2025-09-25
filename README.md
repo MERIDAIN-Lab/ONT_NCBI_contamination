@@ -1,7 +1,7 @@
-# Oxford Nanopore Adapter Contamination Pipeline
+# Oxford Nanopore Adapters and Barcodes Contamination Pipeline
 
 This repository accompanies the manuscript characterising Oxford Nanopore Technologies (ONT) adapter contamination in GenBank
-records. It provides the reference FASTA sequences, intermediate annotation artefacts, and the final BLASTn summary tables used
+records. It provides the reference FASTA sequences, intermediate annotation artifacts, and the final BLASTn summary tables used
 in the study, together with the exact analysis script that reproduces the manuscript results.
 
 All database queries for the published analysis were completed on 23 September 2025.
@@ -17,7 +17,7 @@ All database queries for the published analysis were completed on 23 September 2
 - `partial_annotation.pkl` – cached metadata harvested from GenBank to accelerate reruns of the pipeline.
 
 ## Software requirements
-a
+
 The pipeline depends on Python 3.9 or later with the packages `biopython`, `pandas`, `python-dateutil`, and `openpyxl`. Create a
 fresh environment and install the dependencies using either `pip` or `conda`:
 
@@ -37,12 +37,12 @@ available either remotely via Entrez or as a local download.
 
 ## Workflow summary
 
-The `v3Sept2025_BLAST_pipeline_final_with_nanopore_check.py` script executes the following steps:
+The `BLAST_pipeline_nanopore_contamination.py` script executes the following steps:
 
 1. Harvests GenBank metadata for each adapter sequence via the Entrez API.
 2. Submits short BLASTn searches against the NCBI nucleotide collection (remote or local, depending on user configuration).
 3. Collates per-sequence BLASTn outputs into `shortblast_outputs/` and merges them into `Combined_BLAST_Report.xlsx`.
-4. Serialises intermediate annotations to `partial_annotation.pkl` so that subsequent runs avoid redundant queries.
+4. Serializes intermediate annotations to `partial_annotation.pkl` so that subsequent runs avoid redundant queries.
 
 The workflow is deterministic: repeated runs with identical inputs and database snapshots yield identical outputs.
 
@@ -56,13 +56,13 @@ The workflow is deterministic: repeated runs with identical inputs and database 
 
 2. Execute the analysis script:
    ```bash
-   python v3Sept2025_BLAST_pipeline_final_with_nanopore_check.py \
+   python BLAST_pipeline_nanopore_contamination.py \
        --input ONT_and_Porechop_adapters_and_barcodes_CLEANED.fasta \
        --output shortblast_outputs
    ```
 
    Additional flags allow users to force re-annotation, direct BLAST to a local database, or run local pairwise alignments against
-   a custom FASTA. Run `python v3Sept2025_BLAST_pipeline_final_with_nanopore_check.py --help` for the complete interface.
+   a custom FASTA. Run `python BLAST_pipeline_nanopore_contamination.py --help` for the complete interface.
 
 3. The script will reuse the distributed BLAST tables and metadata cache unless `--force-reannotate` is provided. When refreshing
    annotations, respect NCBI rate limits and institutional policies.
