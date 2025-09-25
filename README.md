@@ -1,4 +1,4 @@
-# Supplementary Materials: Oxford Nanopore Adapter Contamination Pipeline
+# Oxford Nanopore Adapter Contamination Pipeline
 
 This repository accompanies the manuscript characterising Oxford Nanopore Technologies (ONT) adapter contamination in GenBank
 records. It provides the reference FASTA sequences, intermediate annotation artefacts, and the final BLASTn summary tables used
@@ -17,7 +17,7 @@ All database queries for the published analysis were completed on 23 September 2
 - `partial_annotation.pkl` – cached metadata harvested from GenBank to accelerate reruns of the pipeline.
 
 ## Software requirements
-
+a
 The pipeline depends on Python 3.9 or later with the packages `biopython`, `pandas`, `python-dateutil`, and `openpyxl`. Create a
 fresh environment and install the dependencies using either `pip` or `conda`:
 
@@ -82,3 +82,7 @@ repository. Users are encouraged to cite the accompanying manuscript when reusin
 
 For questions about the analysis or requests for additional materials, please open an issue on the project page or contact the
 corresponding author.
+
+## Credits
+Developed by the Clipman Lab, Department of Medicine, Division of Infectious Diseases,
+Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
