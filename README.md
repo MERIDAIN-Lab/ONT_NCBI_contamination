@@ -76,3 +76,6 @@ python scripts/BLAST_pipeline_nanopore_contamination_2.py \
   --blast-mode remote \
   --db nt \
   --email your.email@institution.edu
+```
+
+Complete March 2026 screening outputs used for the paper are archived in [Zenodo](https://zenodo.org/records/19238758) because the full result files exceed GitHub file size limits.
