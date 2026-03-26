@@ -1,0 +1,5 @@
+Accession	Length	E-value	Definition	Organism	Taxonomy	Release Year	query_start	query_end	subject_start	subject_end	Align_Length	Query_Length	Identity(%)	Coverage(%)	Pass_Filter
+CP099738	9676923	0.38		Lentzea sp. HUAS12	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Pseudonocardiales; Pseudonocardiaceae; Lentzea	2022	1	22	9638745	9638724	22	24	100.00	92.00	YES
+OZ208077	19233734	5.9		Eudonia angustea	Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata; Ditrysia; Pyraloidea; Crambidae; Eudonia	2024	2	21	16064167	16064148	20	24	100.00	83.00	YES
+OZ020280	14890276	5.9		Aethes cnicana	Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata; Ditrysia; Tortricoidea; Tortricidae; Tortricinae; Aethes	2024	4	23	12245845	12245864	20	24	100.00	83.00	YES
+OZ373176	17251104	5.9		Aethes rubigana	Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata; Ditrysia; Tortricoidea; Tortricidae; Tortricinae; Aethes	2025	4	23	3177971	3177952	20	24	100.00	83.00	YES

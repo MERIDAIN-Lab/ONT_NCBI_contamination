@@ -1,0 +1,7 @@
+Accession	Length	E-value	Definition	Organism	Taxonomy	Release Year	query_start	query_end	subject_start	subject_end	Align_Length	Query_Length	Identity(%)	Coverage(%)	Pass_Filter
+OP583592	45223	0.024		Xanthomonas phage GF2	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Autographivirales; Autonotataviridae; Gujervirinae; Pradovirus	2022	1	24	45186	45163	24	24	100.00	100.00	YES
+OP583592	45223	0.024		Xanthomonas phage GF2	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Autographivirales; Autonotataviridae; Gujervirinae; Pradovirus	2022	1	24	34	57	24	24	100.00	100.00	YES
+CP120995	4576	0.024		Streptomyces laculatispora	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2023	1	24	686	709	24	24	100.00	100.00	YES
+OZ414244	20308588	1.5		Scythropia crataegella	Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata; Ditrysia; Yponomeutoidea; Scythropiidae; Scythropia	2026	1	21	937849	937869	21	24	100.00	88.00	YES
+OX359201	6903244	5.9		Chondrosia reniformis	Eukaryota; Metazoa; Porifera; Demospongiae; Verongimorpha; Chondrillida; Chondrillidae; Chondrosia	2022	4	23	1053918	1053899	20	24	100.00	83.00	YES
+OZ316995	94363174	5.9		Arianta arbustorum	Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Mollusca; Gastropoda; Heterobranchia; Euthyneura; Panpulmonata; Eupulmonata; Stylommatophora; Helicina; Helicoidea; Helicidae; Arianta	2025	2	21	81993713	81993732	20	24	100.00	83.00	YES

@@ -1,0 +1,12 @@
+Accession	Length	E-value	Definition	Organism	Taxonomy	Release Year	query_start	query_end	subject_start	subject_end	Align_Length	Query_Length	Identity(%)	Coverage(%)	Pass_Filter
+PP906246	713	0.024		Phanerochaete velutina	Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Agaricomycetes; Polyporales; Phanerochaetaceae; Phanerochaete	2025	1	24	676	699	24	24	100.00	100.00	YES
+PP841138	41054	0.024		Acinetobacter phage vB_Ab_1137_KEN_07	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Autographivirales; Autoscriptoviridae; Beijerinckvirinae; Friunavirus	2024	1	24	32	9	24	24	100.00	100.00	YES
+PP841138	41054	0.024		Acinetobacter phage vB_Ab_1137_KEN_07	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Autographivirales; Autoscriptoviridae; Beijerinckvirinae; Friunavirus	2024	1	24	41014	41037	24	24	100.00	100.00	YES
+PP593775	1519	0.024		Chryseobacterium sp.	Bacteria; Pseudomonadati; Bacteroidota; Flavobacteriia; Flavobacteriales; Weeksellaceae; Chryseobacterium group; Chryseobacterium	2024	1	24	1495	1518	24	24	100.00	100.00	YES
+PP593775	1519	1.5		Chryseobacterium sp.	Bacteria; Pseudomonadati; Bacteroidota; Flavobacteriia; Flavobacteriales; Weeksellaceae; Chryseobacterium group; Chryseobacterium	2024	1	21	21	1	21	24	100.00	100.00	YES
+OR121047	1552	0.024		Cutibacterium sp.	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Propionibacteriales; Propionibacteriaceae; Cutibacterium	2023	1	24	34	11	24	24	100.00	100.00	YES
+OR121047	1552	0.024		Cutibacterium sp.	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Propionibacteriales; Propionibacteriaceae; Cutibacterium	2023	1	24	1521	1544	24	24	100.00	100.00	YES
+CP072834	5266464	0.024		Trichoderma asperellum	Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreomycetidae; Hypocreales; Hypocreaceae; Trichoderma	2021	1	24	5266419	5266442	24	24	100.00	100.00	YES
+CP072830	7617151	0.024		Trichoderma asperellum	Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreomycetidae; Hypocreales; Hypocreaceae; Trichoderma	2021	1	24	7617124	7617147	24	24	100.00	100.00	YES
+PX866526	1504	0.024		Chryseobacterium sp.	Bacteria; Pseudomonadati; Bacteroidota; Flavobacteriia; Flavobacteriales; Weeksellaceae; Chryseobacterium group; Chryseobacterium	2026	1	24	1481	1504	24	24	100.00	100.00	YES
+CP011273	6507102	5.9		Planctomyces sp. SH-PL62	Bacteria; Pseudomonadati; Planctomycetota; Planctomycetia; Planctomycetales; Planctomycetaceae; Planctomyces	2016	1	24	2609303	2609280	24	24	95.83	100.00	YES

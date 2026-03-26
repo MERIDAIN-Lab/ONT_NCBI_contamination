@@ -1,0 +1,692 @@
+Accession	Length	E-value	Definition	Organism	Taxonomy	Release Year	query_start	query_end	subject_start	subject_end	Align_Length	Query_Length	Identity(%)	Coverage(%)	Pass_Filter
+CP055138	4674361	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2020	1	20	4503721	4503702	20	20	100.00	100.00	YES
+CP055138	4674361	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2020	1	20	4503728	4503747	20	20	100.00	100.00	YES
+CP054892	4593694	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2020	1	20	4265518	4265499	20	20	100.00	100.00	YES
+CP054913	4536577	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2020	1	20	2779310	2779291	20	20	100.00	100.00	YES
+CP054913	4536577	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2020	1	20	2779317	2779336	20	20	100.00	100.00	YES
+OZ360593	34695585	5.9		Alchemilla faeroensis	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Rosales; Rosaceae; Rosoideae; Potentilleae; Fragariinae; Alchemilla	2025	1	20	10302179	10302160	20	20	100.00	100.00	YES
+OZ335017	14456268	5.9		Odontosia sieversii	Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata; Ditrysia; Noctuoidea; Notodontidae; Ptilodontinae; Odontosia	2025	1	20	1659615	1659596	20	20	100.00	100.00	YES
+OZ334891	28728368	5.9		Peregrinus maidis	Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Paraneoptera; Hemiptera; Auchenorrhyncha; Fulgoroidea; Delphacidae; Delphacinae; Peregrinus	2025	1	20	8578575	8578556	20	20	100.00	100.00	YES
+OZ334867	42552914	5.9		Peregrinus maidis	Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Paraneoptera; Hemiptera; Auchenorrhyncha; Fulgoroidea; Delphacidae; Delphacinae; Peregrinus	2025	1	20	13967387	13967368	20	20	100.00	100.00	YES
+CP050985	4751732	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2020	1	20	4662387	4662368	20	20	100.00	100.00	YES
+CP050985	4751732	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2020	1	20	4662394	4662413	20	20	100.00	100.00	YES
+CP174318	41385	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	39478	39459	20	20	100.00	100.00	YES
+CP174317	72713	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	1543	1524	20	20	100.00	100.00	YES
+CP174317	72713	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	4257	4238	20	20	100.00	100.00	YES
+CP174317	72713	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	8909	8890	20	20	100.00	100.00	YES
+CP174317	72713	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	33946	33927	20	20	100.00	100.00	YES
+CP174317	72713	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	50881	50862	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	58387	58368	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	87615	87596	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	100126	100107	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	100983	100964	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	122582	122563	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	124	143	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	1957	1976	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	6327	6346	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	10316	10335	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	17728	17747	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	18223	18242	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	25761	25780	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	32049	32068	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	32781	32800	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	42863	42882	20	20	100.00	100.00	YES
+CP174315	122680	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	20	92985	93004	20	20	100.00	100.00	YES
+CP189683	4659789	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2025	1	20	2273394	2273375	20	20	100.00	100.00	YES
+CP189683	4659789	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2025	1	20	2273401	2273420	20	20	100.00	100.00	YES
+CP196642	899563	5.9		Klebsiella pneumoniae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae complex	2025	1	20	899470	899451	20	20	100.00	100.00	YES
+CP045522	4549591	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2020	1	20	1245030	1245011	20	20	100.00	100.00	YES
+CP034931	4654019	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2020	1	20	1965098	1965079	20	20	100.00	100.00	YES
+CP034931	4654019	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2020	1	20	1965105	1965124	20	20	100.00	100.00	YES
+CP041411	4987940	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2020	1	20	2788117	2788098	20	20	100.00	100.00	YES
+CP041425	4928812	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2020	1	20	3386490	3386471	20	20	100.00	100.00	YES
+CP041425	4928812	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2020	1	20	4085987	4085968	20	20	100.00	100.00	YES
+CP024984	4644863	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	3465027	3465008	20	20	100.00	100.00	YES
+CP024984	4644863	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	3465034	3465053	20	20	100.00	100.00	YES
+CP024983	4643033	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	3462978	3462959	20	20	100.00	100.00	YES
+CP024983	4643033	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	3462985	3463004	20	20	100.00	100.00	YES
+CP024982	4646599	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	3466440	3466421	20	20	100.00	100.00	YES
+CP024982	4646599	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	3466447	3466466	20	20	100.00	100.00	YES
+CP024981	4645776	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	3464757	3464738	20	20	100.00	100.00	YES
+CP024981	4645776	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	3464764	3464783	20	20	100.00	100.00	YES
+CP045941	4723195	5.9		Shigella flexneri 2a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	2510415	2510396	20	20	100.00	100.00	YES
+CP045941	4723195	5.9		Shigella flexneri 2a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	2510422	2510441	20	20	100.00	100.00	YES
+CP043487	4753097	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2019	1	20	292820	292801	20	20	100.00	100.00	YES
+CP043486	4789695	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2019	1	20	292729	292710	20	20	100.00	100.00	YES
+CP195021	7083514	5.9		Pseudomonas aeruginosa	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas	2025	1	20	7083328	7083309	20	20	100.00	100.00	YES
+CP194204	4590	5.9		Pseudomonas aeruginosa	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas	2025	1	20	4496	4477	20	20	100.00	100.00	YES
+CP194766	6918046	5.9		Paenibacillus lautus	Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus	2025	1	20	6917846	6917827	20	20	100.00	100.00	YES
+CP169307	5594471	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2025	1	20	385115	385096	20	20	100.00	100.00	YES
+CP044158	4646629	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	1767878	1767859	20	20	100.00	100.00	YES
+CP044158	4646629	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	1767885	1767904	20	20	100.00	100.00	YES
+CP044155	4593360	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	4328106	4328087	20	20	100.00	100.00	YES
+CP044155	4593360	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	4328113	4328132	20	20	100.00	100.00	YES
+CP044152	4538615	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	371466	371447	20	20	100.00	100.00	YES
+CP044152	4538615	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	371473	371492	20	20	100.00	100.00	YES
+AP040255	4669723	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2025	1	20	2272813	2272794	20	20	100.00	100.00	YES
+AP040255	4669723	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2025	1	20	2272820	2272839	20	20	100.00	100.00	YES
+AP040250	4715328	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2025	1	20	2307255	2307236	20	20	100.00	100.00	YES
+AP040250	4715328	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2025	1	20	2307262	2307281	20	20	100.00	100.00	YES
+CP183681	5124636	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2025	1	20	863209	863190	20	20	100.00	100.00	YES
+CP181697	5320294	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2025	1	20	2526717	2526698	20	20	100.00	100.00	YES
+CP186881	5250296	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2025	1	20	2425813	2425794	20	20	100.00	100.00	YES
+CP186880	5159575	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2025	1	20	1210747	1210728	20	20	100.00	100.00	YES
+CP182374	4869109	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2025	1	20	3576576	3576557	20	20	100.00	100.00	YES
+CP040667	4772290	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2019	1	20	3030791	3030772	20	20	100.00	100.00	YES
+CP040667	4772290	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2019	1	20	3140756	3140737	20	20	100.00	100.00	YES
+CP178576	4751215	5.9		Erwinia sp. LJJL01	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Erwiniaceae; Erwinia	2025	1	20	4751116	4751097	20	20	100.00	100.00	YES
+CP177202	4989604	5.9		Escherichia sp. F1	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2025	1	20	1643909	1643890	20	20	100.00	100.00	YES
+CP165419	44008	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2025	1	20	43918	43899	20	20	100.00	100.00	YES
+CP151071	5230873	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	888748	888729	20	20	100.00	100.00	YES
+CP151071	5230873	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	1495931	1495950	20	20	100.00	100.00	YES
+CP151071	5230873	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	3658074	3658093	20	20	100.00	100.00	YES
+CP151067	5040491	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	885806	885787	20	20	100.00	100.00	YES
+CP164331	2141	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	2052	2033	20	20	100.00	100.00	YES
+CP037996	4655489	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	2840001	2839982	20	20	100.00	100.00	YES
+CP037996	4655489	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	2840008	2840027	20	20	100.00	100.00	YES
+OZ039521	5274962	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	3158164	3158145	20	20	100.00	100.00	YES
+OZ040355	5289963	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	2904796	2904777	20	20	100.00	100.00	YES
+OZ039997	4998461	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	2304492	2304473	20	20	100.00	100.00	YES
+OZ038883	5158125	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	3358671	3358652	20	20	100.00	100.00	YES
+CP172785	4961779	5.9		Salmonella enterica subsp. enterica serovar Agona	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella	2024	1	20	4961683	4961664	20	20	100.00	100.00	YES
+CP163589	36271	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	36176	36157	20	20	100.00	100.00	YES
+CP163833	2204	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	2109	2090	20	20	100.00	100.00	YES
+CP164073	2187	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	2097	2078	20	20	100.00	100.00	YES
+CP163936	2066	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	1976	1957	20	20	100.00	100.00	YES
+CP165549	2412	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	2322	2303	20	20	100.00	100.00	YES
+CP163880	60215	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	60126	60107	20	20	100.00	100.00	YES
+CP164819	5276368	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	5239852	5239833	20	20	100.00	100.00	YES
+CP165494	2065	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	1977	1958	20	20	100.00	100.00	YES
+CP164771	2210	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	2095	2076	20	20	100.00	100.00	YES
+LR213455	4633147	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	2430790	2430771	20	20	100.00	100.00	YES
+LR213455	4633147	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	2430797	2430816	20	20	100.00	100.00	YES
+CP032513	4575536	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	535849	535830	20	20	100.00	100.00	YES
+CP035330	5110451	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2019	1	20	527776	527757	20	20	100.00	100.00	YES
+CP153712	5329169	5.9		Klebsiella pneumoniae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae complex	2024	1	20	2987163	2987144	20	20	100.00	100.00	YES
+CP030915	4696723	5.9		Shigella flexneri 2a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2018	1	20	1601487	1601468	20	20	100.00	100.00	YES
+CP030915	4696723	5.9		Shigella flexneri 2a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2018	1	20	1601494	1601513	20	20	100.00	100.00	YES
+CP026788	4659463	5.9		Shigella flexneri 2a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	866217	866198	20	20	100.00	100.00	YES
+CP026788	4659463	5.9		Shigella flexneri 2a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	866224	866243	20	20	100.00	100.00	YES
+CP026793	4733503	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	4099367	4099348	20	20	100.00	100.00	YES
+CP026793	4733503	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	4099374	4099393	20	20	100.00	100.00	YES
+CP026877	5129092	5.9		Shigella boydii	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2018	1	20	5049102	5049083	20	20	100.00	100.00	YES
+CP026098	4576448	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	3521754	3521735	20	20	100.00	100.00	YES
+CP159738	16471	5.9		Morganella morganii	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Morganellaceae; Morganella	2024	1	20	16428	16409	20	20	100.00	100.00	YES
+CP159756	4663330	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	4663207	4663188	20	20	100.00	100.00	YES
+CP159706	506	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	479	460	20	20	100.00	100.00	YES
+CP159715	2875735	5.9		Enterococcus faecalis	Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales; Enterococcaceae; Enterococcus	2024	1	20	1545504	1545485	20	20	100.00	100.00	YES
+CP159722	31717	5.9		Enterococcus faecalis	Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales; Enterococcaceae; Enterococcus	2024	1	20	3034	3015	20	20	100.00	100.00	YES
+CP159663	5253508	5.9		Klebsiella pneumoniae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae complex	2024	1	20	5253373	5253354	20	20	100.00	100.00	YES
+CP159640	90206	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	90174	90155	20	20	100.00	100.00	YES
+CP159633	4828761	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	4828624	4828605	20	20	100.00	100.00	YES
+CP024470	4834597	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2017	1	20	2563174	2563155	20	20	100.00	100.00	YES
+CP024470	4834597	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2017	1	20	2563181	2563200	20	20	100.00	100.00	YES
+CP024470	4834597	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2017	1	20	3796224	3796243	20	20	100.00	100.00	YES
+CP024297	167764	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2017	1	20	15554	15535	20	20	100.00	100.00	YES
+CP024297	167764	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2017	1	20	145844	145825	20	20	100.00	100.00	YES
+MG014200	7572	5.9		Cloning vector pAH-mini-Mu(LER)-YS	other sequences; artificial sequences; vectors	2017	1	20	1942	1923	20	20	100.00	100.00	YES
+MG014198	7289	5.9		Cloning vector pAH-mini-Mu(LER)-YK	other sequences; artificial sequences; vectors	2017	1	20	78	59	20	20	100.00	100.00	YES
+OZ076272	645629	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	645565	645546	20	20	100.00	100.00	YES
+OZ076262	1192080	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	1191995	1191976	20	20	100.00	100.00	YES
+OZ076240	949366	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	145029	145010	20	20	100.00	100.00	YES
+OZ076240	949366	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	603951	603932	20	20	100.00	100.00	YES
+OZ076228	532248	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	284567	284548	20	20	100.00	100.00	YES
+OZ076185	525557	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	525505	525486	20	20	100.00	100.00	YES
+OZ076178	1358589	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	448224	448205	20	20	100.00	100.00	YES
+OZ076178	1358589	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	498139	498120	20	20	100.00	100.00	YES
+OZ076178	1358589	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	1191652	1191633	20	20	100.00	100.00	YES
+OZ076178	1358589	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	303323	303342	20	20	100.00	100.00	YES
+OZ076178	1358589	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	656458	656477	20	20	100.00	100.00	YES
+OZ076177	1117890	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	47670	47651	20	20	100.00	100.00	YES
+OZ076177	1117890	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	107702	107683	20	20	100.00	100.00	YES
+OZ076177	1117890	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	175277	175258	20	20	100.00	100.00	YES
+OZ076177	1117890	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	565647	565628	20	20	100.00	100.00	YES
+OZ076177	1117890	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	660653	660634	20	20	100.00	100.00	YES
+OZ076177	1117890	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	88	107	20	20	100.00	100.00	YES
+OZ076177	1117890	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	47944	47963	20	20	100.00	100.00	YES
+OZ076176	1083091	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	200808	200789	20	20	100.00	100.00	YES
+OZ076176	1083091	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	894878	894859	20	20	100.00	100.00	YES
+OZ076176	1083091	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	326585	326604	20	20	100.00	100.00	YES
+OZ076176	1083091	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	539743	539762	20	20	100.00	100.00	YES
+OZ076176	1083091	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	558327	558346	20	20	100.00	100.00	YES
+OZ076175	1104206	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	43106	43087	20	20	100.00	100.00	YES
+OZ076175	1104206	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	59641	59622	20	20	100.00	100.00	YES
+OZ076175	1104206	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	205611	205592	20	20	100.00	100.00	YES
+OZ076175	1104206	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	473713	473694	20	20	100.00	100.00	YES
+OZ076175	1104206	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	978639	978620	20	20	100.00	100.00	YES
+OZ076175	1104206	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	1063621	1063602	20	20	100.00	100.00	YES
+OZ076175	1104206	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	59903	59922	20	20	100.00	100.00	YES
+OZ076175	1104206	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	978928	978947	20	20	100.00	100.00	YES
+OZ076175	1104206	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	1063900	1063919	20	20	100.00	100.00	YES
+OZ076174	975474	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	271711	271692	20	20	100.00	100.00	YES
+OZ076174	975474	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	317913	317894	20	20	100.00	100.00	YES
+OZ076174	975474	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	143420	143439	20	20	100.00	100.00	YES
+OZ076174	975474	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	271988	272007	20	20	100.00	100.00	YES
+OZ076174	975474	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	318192	318211	20	20	100.00	100.00	YES
+OZ076173	975000	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	831155	831136	20	20	100.00	100.00	YES
+OZ076173	975000	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	611004	611023	20	20	100.00	100.00	YES
+OZ076172	991877	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	663977	663958	20	20	100.00	100.00	YES
+OZ076172	991877	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	64	83	20	20	100.00	100.00	YES
+OZ076172	991877	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	384714	384733	20	20	100.00	100.00	YES
+OZ076171	936623	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	936431	936412	20	20	100.00	100.00	YES
+OZ076170	899244	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	121378	121359	20	20	100.00	100.00	YES
+OZ076170	899244	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	161458	161439	20	20	100.00	100.00	YES
+OZ076170	899244	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	398066	398047	20	20	100.00	100.00	YES
+OZ076170	899244	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	602332	602313	20	20	100.00	100.00	YES
+OZ076170	899244	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	899051	899032	20	20	100.00	100.00	YES
+OZ076170	899244	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	161749	161768	20	20	100.00	100.00	YES
+OZ076170	899244	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	266629	266648	20	20	100.00	100.00	YES
+OZ076170	899244	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	398352	398371	20	20	100.00	100.00	YES
+OZ076170	899244	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	602614	602633	20	20	100.00	100.00	YES
+OZ076169	791533	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	106897	106878	20	20	100.00	100.00	YES
+OZ076169	791533	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	248310	248291	20	20	100.00	100.00	YES
+OZ076169	791533	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	393827	393808	20	20	100.00	100.00	YES
+OZ076169	791533	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	429113	429094	20	20	100.00	100.00	YES
+OZ076169	791533	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	93	112	20	20	100.00	100.00	YES
+OZ076169	791533	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	107115	107134	20	20	100.00	100.00	YES
+OZ076169	791533	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	429392	429411	20	20	100.00	100.00	YES
+OZ076169	791533	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	480301	480320	20	20	100.00	100.00	YES
+OZ076168	554918	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	359006	358987	20	20	100.00	100.00	YES
+OZ076168	554918	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	339828	339847	20	20	100.00	100.00	YES
+OZ076168	554918	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	359266	359285	20	20	100.00	100.00	YES
+OZ076167	839346	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	57752	57733	20	20	100.00	100.00	YES
+OZ076167	839346	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	101752	101733	20	20	100.00	100.00	YES
+OZ076167	839346	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	672286	672267	20	20	100.00	100.00	YES
+OZ076167	839346	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	725887	725868	20	20	100.00	100.00	YES
+OZ076167	839346	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	102032	102051	20	20	100.00	100.00	YES
+OZ076167	839346	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	645451	645470	20	20	100.00	100.00	YES
+OZ076167	839346	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	672567	672586	20	20	100.00	100.00	YES
+OZ076167	839346	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	707014	707033	20	20	100.00	100.00	YES
+OZ076165	641941	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	256255	256236	20	20	100.00	100.00	YES
+OZ076165	641941	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	452645	452664	20	20	100.00	100.00	YES
+OZ076164	512884	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	41799	41780	20	20	100.00	100.00	YES
+OZ076163	532562	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	196948	196929	20	20	100.00	100.00	YES
+OZ076163	532562	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	532375	532356	20	20	100.00	100.00	YES
+OZ076163	532562	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	42422	42441	20	20	100.00	100.00	YES
+OZ076162	468879	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	468692	468673	20	20	100.00	100.00	YES
+OZ076127	896691	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	896638	896619	20	20	100.00	100.00	YES
+CP157161	104210	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	55023	55004	20	20	100.00	100.00	YES
+OZ040490	5095368	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	4662424	4662405	20	20	100.00	100.00	YES
+CP020086	4623260	5.9		Shigella flexneri 1a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2017	1	20	2882311	2882292	20	20	100.00	100.00	YES
+CP020086	4623260	5.9		Shigella flexneri 1a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2017	1	20	2882318	2882337	20	20	100.00	100.00	YES
+CP020342	4681581	5.9		Shigella flexneri 1a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2017	1	20	3490439	3490420	20	20	100.00	100.00	YES
+CP020342	4681581	5.9		Shigella flexneri 1a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2017	1	20	3490446	3490465	20	20	100.00	100.00	YES
+CP020339	4646872	5.9		Shigella flexneri 4c	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2017	1	20	803265	803246	20	20	100.00	100.00	YES
+CP020339	4646872	5.9		Shigella flexneri 4c	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2017	1	20	803272	803291	20	20	100.00	100.00	YES
+CP020336	4661857	5.9		Shigella flexneri 4c	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2017	1	20	1628365	1628346	20	20	100.00	100.00	YES
+CP020336	4661857	5.9		Shigella flexneri 4c	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2017	1	20	1628372	1628391	20	20	100.00	100.00	YES
+OZ036086	1563058	5.9		Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo	2024	1	20	1563000	1562981	20	20	100.00	100.00	YES
+OZ036472	540098	5.9		Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo	2024	1	20	540031	540012	20	20	100.00	100.00	YES
+KY705354	26158	5.9		uncultured bacterium	Bacteria; environmental samples	2017	1	20	3872	3853	20	20	100.00	100.00	YES
+KY705354	26158	5.9		uncultured bacterium	Bacteria; environmental samples	2017	1	20	5346	5365	20	20	100.00	100.00	YES
+CP151344	4650577	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2024	1	20	2266175	2266156	20	20	100.00	100.00	YES
+CP151344	4650577	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2024	1	20	2266182	2266201	20	20	100.00	100.00	YES
+CP151328	4653182	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2024	1	20	2271210	2271191	20	20	100.00	100.00	YES
+CP151328	4653182	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2024	1	20	2271217	2271236	20	20	100.00	100.00	YES
+CP151323	4640193	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2024	1	20	2253029	2253010	20	20	100.00	100.00	YES
+CP151323	4640193	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2024	1	20	2253036	2253055	20	20	100.00	100.00	YES
+OR771667	56762	5.9		uncultured bacterium	Bacteria; environmental samples	2024	1	20	4734	4715	20	20	100.00	100.00	YES
+OR771667	56762	5.9		uncultured bacterium	Bacteria; environmental samples	2024	1	20	7002	7021	20	20	100.00	100.00	YES
+KX011466	9512	5.9		Cloning vector pJFR3	other sequences; artificial sequences; vectors	2017	1	20	2891	2872	20	20	100.00	100.00	YES
+KX011466	9512	5.9		Cloning vector pJFR3	other sequences; artificial sequences; vectors	2017	1	20	2932	2951	20	20	100.00	100.00	YES
+CP108625	7705305	5.9		Streptomyces rubiginosohelvolus	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2024	1	20	6758	6739	20	20	100.00	100.00	YES
+CP108625	7705305	5.9		Streptomyces rubiginosohelvolus	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2024	1	20	7698548	7698567	20	20	100.00	100.00	YES
+CP108432	36514	5.9		Streptomyces sp. NBC_01283	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2024	1	20	36146	36127	20	20	100.00	100.00	YES
+M35371	4597	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2016	1	20	4510	4491	20	20	100.00	100.00	YES
+OY982515	840504	5.9		Macaca mulatta	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Cercopithecidae; Cercopithecinae; Macaca	2023	1	20	546250	546231	20	20	100.00	100.00	YES
+CP138846	4652134	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2023	1	20	2270294	2270275	20	20	100.00	100.00	YES
+CP138846	4652134	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2023	1	20	2270301	2270320	20	20	100.00	100.00	YES
+CP137719	4870260	5.9		Salmonella enterica	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella	2023	1	20	1709956	1709937	20	20	100.00	100.00	YES
+CP137719	4870260	5.9		Salmonella enterica	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella	2023	1	20	1710019	1710038	20	20	100.00	100.00	YES
+CP100044	4643553	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2023	1	20	1859572	1859553	20	20	100.00	100.00	YES
+CP100044	4643553	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2023	1	20	1859579	1859598	20	20	100.00	100.00	YES
+CP100042	4709683	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2023	1	20	3147516	3147497	20	20	100.00	100.00	YES
+CP100042	4709683	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2023	1	20	3147523	3147542	20	20	100.00	100.00	YES
+CP100042	4709683	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2023	1	20	4036615	4036634	20	20	100.00	100.00	YES
+CP120996	4166	5.9		Streptomyces laculatispora	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2023	1	20	3962	3943	20	20	100.00	100.00	YES
+CP120994	10485	5.9		Streptomyces laculatispora	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2023	1	20	10329	10310	20	20	100.00	100.00	YES
+CP120994	10485	5.9		Streptomyces laculatispora	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2023	1	20	10398	10379	20	20	100.00	100.00	YES
+CP131579	1517676	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1083246	1083227	20	20	100.00	100.00	YES
+CP131579	1517676	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	549508	549527	20	20	100.00	100.00	YES
+CP131582	1595373	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	187896	187877	20	20	100.00	100.00	YES
+CP131582	1595373	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	131852	131871	20	20	100.00	100.00	YES
+CP131582	1595373	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	808040	808059	20	20	100.00	100.00	YES
+CP131582	1595373	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1354015	1354034	20	20	100.00	100.00	YES
+CP131581	3008373	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1391157	1391138	20	20	100.00	100.00	YES
+CP131581	3008373	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1667146	1667127	20	20	100.00	100.00	YES
+CP131581	3008373	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1997872	1997853	20	20	100.00	100.00	YES
+CP131581	3008373	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1454927	1454946	20	20	100.00	100.00	YES
+CP131581	3008373	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1740153	1740172	20	20	100.00	100.00	YES
+CP131584	3197406	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1356796	1356777	20	20	100.00	100.00	YES
+CP131587	703352	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	203225	203206	20	20	100.00	100.00	YES
+CP131587	703352	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	365091	365072	20	20	100.00	100.00	YES
+CP131587	703352	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	217596	217615	20	20	100.00	100.00	YES
+CP131587	703352	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	365346	365365	20	20	100.00	100.00	YES
+CP131577	1522156	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1487483	1487464	20	20	100.00	100.00	YES
+CP131577	1522156	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	93	112	20	20	100.00	100.00	YES
+CP131577	1522156	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	853675	853694	20	20	100.00	100.00	YES
+CP131605	1555659	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1555474	1555455	20	20	100.00	100.00	YES
+CP131605	1555659	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	84	103	20	20	100.00	100.00	YES
+CP131573	1431556	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	346513	346494	20	20	100.00	100.00	YES
+CP131573	1431556	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	667335	667316	20	20	100.00	100.00	YES
+CP131573	1431556	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	723373	723354	20	20	100.00	100.00	YES
+CP131573	1431556	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1324601	1324582	20	20	100.00	100.00	YES
+CP131573	1431556	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	591034	591053	20	20	100.00	100.00	YES
+CP131573	1431556	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	887917	887936	20	20	100.00	100.00	YES
+CP131573	1431556	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1229623	1229642	20	20	100.00	100.00	YES
+CP131573	1431556	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1285536	1285555	20	20	100.00	100.00	YES
+CP131572	3089627	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	888685	888666	20	20	100.00	100.00	YES
+CP131572	3089627	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1935009	1934990	20	20	100.00	100.00	YES
+CP131572	3089627	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1471622	1471641	20	20	100.00	100.00	YES
+CP131572	3089627	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1514169	1514188	20	20	100.00	100.00	YES
+CP131572	3089627	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	1935287	1935306	20	20	100.00	100.00	YES
+CP131572	3089627	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	2346007	2346026	20	20	100.00	100.00	YES
+CP131572	3089627	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	2808373	2808392	20	20	100.00	100.00	YES
+CP106857	4678585	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2023	1	20	564038	564019	20	20	100.00	100.00	YES
+CP106857	4678585	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2023	1	20	564045	564064	20	20	100.00	100.00	YES
+CP126934	4885187	5.9		Escherichia coli O78:H4	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	1842789	1842770	20	20	100.00	100.00	YES
+CP012140	4683636	5.9		Shigella flexneri 4c	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2016	1	20	1772822	1772803	20	20	100.00	100.00	YES
+CP012140	4683636	5.9		Shigella flexneri 4c	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2016	1	20	1772829	1772848	20	20	100.00	100.00	YES
+CP012137	4661157	5.9		Shigella flexneri 2a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2016	1	20	1513083	1513064	20	20	100.00	100.00	YES
+CP012137	4661157	5.9		Shigella flexneri 2a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2016	1	20	1513090	1513109	20	20	100.00	100.00	YES
+CP012735	4698633	5.9		Shigella flexneri 1a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2016	1	20	3788207	3788188	20	20	100.00	100.00	YES
+CP012735	4698633	5.9		Shigella flexneri 1a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2016	1	20	3788214	3788233	20	20	100.00	100.00	YES
+AP025754	5358450	5.9		Escherichia sp. KS167_9B	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	3487405	3487386	20	20	100.00	100.00	YES
+CP113981	5199489	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	40836	40817	20	20	100.00	100.00	YES
+AP027411	4927593	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2832394	2832375	20	20	100.00	100.00	YES
+AP027411	4927593	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2823487	2823506	20	20	100.00	100.00	YES
+AP027408	4820287	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2555665	2555646	20	20	100.00	100.00	YES
+CP119734	5138060	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	1933292	1933273	20	20	100.00	100.00	YES
+CP084879	4510341	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2023	1	20	2214026	2214007	20	20	100.00	100.00	YES
+CP084879	4510341	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2023	1	20	2214033	2214052	20	20	100.00	100.00	YES
+KP272131	7272	5.9		Cloning vector p17GFP(lox-Sm-E-Kn)-Tc	other sequences; artificial sequences; vectors	2015	1	20	76	57	20	20	100.00	100.00	YES
+KP272130	7277	5.9		Cloning vector p17YFP(lox-Sm-E-Kn)-Tc	other sequences; artificial sequences; vectors	2015	1	20	78	59	20	20	100.00	100.00	YES
+CP116044	4955913	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	3050445	3050426	20	20	100.00	100.00	YES
+CP115173	5258390	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2395164	2395145	20	20	100.00	100.00	YES
+CP104442	4892432	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	391213	391194	20	20	100.00	100.00	YES
+CP104442	4892432	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	948018	947999	20	20	100.00	100.00	YES
+CP102230	4591037	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2385198	2385179	20	20	100.00	100.00	YES
+CP102230	4591037	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2385205	2385224	20	20	100.00	100.00	YES
+CP102218	4650487	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2383055	2383036	20	20	100.00	100.00	YES
+CP102218	4650487	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2383062	2383081	20	20	100.00	100.00	YES
+CP102215	4647842	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2380386	2380367	20	20	100.00	100.00	YES
+CP102215	4647842	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2380393	2380412	20	20	100.00	100.00	YES
+CP102209	4650539	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2383090	2383071	20	20	100.00	100.00	YES
+CP102209	4650539	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2383097	2383116	20	20	100.00	100.00	YES
+CP102206	4661497	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2385593	2385574	20	20	100.00	100.00	YES
+CP102206	4661497	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2385600	2385619	20	20	100.00	100.00	YES
+CP102203	4658042	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2385557	2385538	20	20	100.00	100.00	YES
+CP102203	4658042	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2385564	2385583	20	20	100.00	100.00	YES
+CP102200	4652818	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2382691	2382672	20	20	100.00	100.00	YES
+CP102200	4652818	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2382698	2382717	20	20	100.00	100.00	YES
+CP101978	5029290	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	3878201	3878182	20	20	100.00	100.00	YES
+CP101975	4979422	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	3828327	3828308	20	20	100.00	100.00	YES
+CP101965	4988014	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	2788111	2788092	20	20	100.00	100.00	YES
+CP101956	4989052	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	2788665	2788646	20	20	100.00	100.00	YES
+CP101954	5068588	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	2826594	2826575	20	20	100.00	100.00	YES
+CP101949	5119070	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	2857912	2857893	20	20	100.00	100.00	YES
+LM651928	4526576	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2014	1	20	1430335	1430316	20	20	100.00	100.00	YES
+LM651928	4526576	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2014	1	20	1430342	1430361	20	20	100.00	100.00	YES
+CP098214	5063976	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	923337	923318	20	20	100.00	100.00	YES
+CP085202	4594703	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2360328	2360309	20	20	100.00	100.00	YES
+CP085202	4594703	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2360335	2360354	20	20	100.00	100.00	YES
+CP094987	4627900	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2228664	2228645	20	20	100.00	100.00	YES
+CP094987	4627900	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2022	1	20	2228671	2228690	20	20	100.00	100.00	YES
+MW117937	15673	5.9		Cloning vector pMUT13	other sequences; artificial sequences; vectors	2022	1	20	1458	1439	20	20	100.00	100.00	YES
+CP004056	4595814	5.9		Shigella flexneri 2003036	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2014	1	20	1490307	1490288	20	20	100.00	100.00	YES
+CP004056	4595814	5.9		Shigella flexneri 2003036	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2014	1	20	1490314	1490333	20	20	100.00	100.00	YES
+CP091026	5064428	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	3574965	3574946	20	20	100.00	100.00	YES
+CP061258	5001499	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	736731	736712	20	20	100.00	100.00	YES
+CP060109	4886698	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	847100	847081	20	20	100.00	100.00	YES
+CP088505	52198	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	4817	4798	20	20	100.00	100.00	YES
+KJ512980	26157	5.9		uncultured bacterium DCM006Kan09	Bacteria; environmental samples	2014	1	20	20812	20793	20	20	100.00	100.00	YES
+KJ512980	26157	5.9		uncultured bacterium DCM006Kan09	Bacteria; environmental samples	2014	1	20	22286	22305	20	20	100.00	100.00	YES
+CP082449	4663049	5.9		Salmonella enterica subsp. enterica serovar Montevideo	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella	2022	1	20	4014215	4014196	20	20	100.00	100.00	YES
+CP082500	4656066	5.9		Salmonella enterica subsp. enterica serovar Montevideo	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella	2022	1	20	1318131	1318112	20	20	100.00	100.00	YES
+CP006584	4835601	5.9		Escherichia coli LY180	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2014	1	20	292820	292801	20	20	100.00	100.00	YES
+CP075019	4685965	5.9		Salmonella enterica subsp. enterica serovar Enteritidis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella	2021	1	20	2647398	2647379	20	20	100.00	100.00	YES
+CP071136	6355	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	6286	6267	20	20	100.00	100.00	YES
+CP069677	5122973	5.9		Escherichia coli O126:H45	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	3096499	3096480	20	20	100.00	100.00	YES
+CP069677	5122973	5.9		Escherichia coli O126:H45	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	4971995	4971976	20	20	100.00	100.00	YES
+CP058442	978575	5.9		Mycoplasmopsis bovis	Bacteria; Bacillati; Mycoplasmatota; Mycoplasmoidales; Metamycoplasmataceae; Mycoplasmopsis	2020	1	20	231147	231128	20	20	100.00	100.00	YES
+CP065970	5173590	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2020	1	20	929176	929157	20	20	100.00	100.00	YES
+CP002967	4897452	5.9		Escherichia coli W	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2014	1	20	292820	292801	20	20	100.00	100.00	YES
+CP002970	5021812	5.9		Escherichia coli KO11FL	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2014	1	20	292820	292801	20	20	100.00	100.00	YES
+CP002970	5021812	5.9		Escherichia coli KO11FL	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2014	1	20	4759027	4759008	20	20	100.00	100.00	YES
+LR882057	4998981	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2020	1	20	396526	396507	20	20	100.00	100.00	YES
+AP045825	5177995	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2026	1	20	1100705	1100686	20	20	100.00	100.00	YES
+OZ409884	6023930	5.9		Pseudomonas sp. AC271	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas	2026	1	20	6023867	6023848	20	20	100.00	100.00	YES
+AP043959	5075631	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2026	1	20	2139491	2139472	20	20	100.00	100.00	YES
+CP057669	4955513	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	3271690	3271671	20	20	100.00	100.00	YES
+CP057475	4822841	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	1469349	1469330	20	20	100.00	100.00	YES
+AP045177	5100032	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2025	1	20	2017091	2017072	20	20	100.00	100.00	YES
+CP056278	4829688	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	2370209	2370190	20	20	100.00	100.00	YES
+CP049606	4559517	5.9		Shigella boydii	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2020	1	20	1110523	1110504	20	20	100.00	100.00	YES
+OZ116912	774605	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	581050	581031	20	20	100.00	100.00	YES
+OZ116910	546013	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	153042	153023	20	20	100.00	100.00	YES
+OZ116910	546013	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	430733	430714	20	20	100.00	100.00	YES
+OZ116910	546013	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	154567	154586	20	20	100.00	100.00	YES
+OZ116910	546013	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	443802	443821	20	20	100.00	100.00	YES
+OZ116903	1136833	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	208430	208411	20	20	100.00	100.00	YES
+OZ116902	1073283	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	1070213	1070194	20	20	100.00	100.00	YES
+OZ116902	1073283	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	262518	262537	20	20	100.00	100.00	YES
+OZ117219	1393237	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	1364939	1364920	20	20	100.00	100.00	YES
+OZ117213	976262	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	976173	976154	20	20	100.00	100.00	YES
+OZ117211	891361	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	891271	891252	20	20	100.00	100.00	YES
+OZ117182	475900	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	475815	475796	20	20	100.00	100.00	YES
+OZ117171	989737	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	989654	989635	20	20	100.00	100.00	YES
+OZ117166	768865	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	768779	768760	20	20	100.00	100.00	YES
+OZ117143	769802	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	769717	769698	20	20	100.00	100.00	YES
+OZ117138	185843	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	185753	185734	20	20	100.00	100.00	YES
+OZ117113	1193529	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	1193439	1193420	20	20	100.00	100.00	YES
+OZ117110	1045275	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	192147	192128	20	20	100.00	100.00	YES
+OZ117110	1045275	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	192427	192446	20	20	100.00	100.00	YES
+OZ117099	502873	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	20672	20653	20	20	100.00	100.00	YES
+OZ117099	502873	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	502777	502758	20	20	100.00	100.00	YES
+OZ116899	988276	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	988187	988168	20	20	100.00	100.00	YES
+OZ116899	988276	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	752007	752026	20	20	100.00	100.00	YES
+OZ116894	738945	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	738863	738844	20	20	100.00	100.00	YES
+OZ116894	738945	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	402089	402108	20	20	100.00	100.00	YES
+OZ116893	715053	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	714967	714948	20	20	100.00	100.00	YES
+OZ116891	688818	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	91071	91052	20	20	100.00	100.00	YES
+OZ116889	527350	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	15194	15175	20	20	100.00	100.00	YES
+OZ116889	527350	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	527259	527240	20	20	100.00	100.00	YES
+OZ116889	527350	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	16779	16798	20	20	100.00	100.00	YES
+OZ117086	925144	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	925054	925035	20	20	100.00	100.00	YES
+OZ116887	317601	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	316406	316387	20	20	100.00	100.00	YES
+OZ116887	317601	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	317512	317493	20	20	100.00	100.00	YES
+OZ117083	746850	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	746764	746745	20	20	100.00	100.00	YES
+OZ117079	527209	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	527122	527103	20	20	100.00	100.00	YES
+OZ116873	751911	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	751823	751804	20	20	100.00	100.00	YES
+OZ116862	1380033	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	255450	255431	20	20	100.00	100.00	YES
+OZ116862	1380033	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	439884	439865	20	20	100.00	100.00	YES
+OZ116862	1380033	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	640353	640334	20	20	100.00	100.00	YES
+OZ116862	1380033	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	255727	255746	20	20	100.00	100.00	YES
+OZ116861	1146277	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	882007	881988	20	20	100.00	100.00	YES
+OZ116858	1010103	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	140825	140806	20	20	100.00	100.00	YES
+OZ116854	901748	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	591605	591586	20	20	100.00	100.00	YES
+OZ116854	901748	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	591876	591895	20	20	100.00	100.00	YES
+OZ116852	785066	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	543772	543753	20	20	100.00	100.00	YES
+OZ116847	647879	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	493417	493398	20	20	100.00	100.00	YES
+OZ116847	647879	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	89	108	20	20	100.00	100.00	YES
+OZ117041	748028	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	747950	747931	20	20	100.00	100.00	YES
+OZ117036	518210	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	18854	18835	20	20	100.00	100.00	YES
+OZ117036	518210	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	88	107	20	20	100.00	100.00	YES
+OZ116796	1033768	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	1033704	1033685	20	20	100.00	100.00	YES
+OZ116981	924918	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	924830	924811	20	20	100.00	100.00	YES
+OZ116975	760873	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	757065	757046	20	20	100.00	100.00	YES
+OZ116775	1005551	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	77918	77899	20	20	100.00	100.00	YES
+OZ116775	1005551	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	78427	78446	20	20	100.00	100.00	YES
+OZ116772	1046064	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	64263	64244	20	20	100.00	100.00	YES
+OZ116764	586990	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	313699	313680	20	20	100.00	100.00	YES
+OZ116764	586990	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	502180	502199	20	20	100.00	100.00	YES
+OZ116761	316604	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	316520	316501	20	20	100.00	100.00	YES
+OZ116748	793604	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	43	24	20	20	100.00	100.00	YES
+OZ116746	715890	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	715805	715786	20	20	100.00	100.00	YES
+OZ116728	897590	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	897504	897485	20	20	100.00	100.00	YES
+OZ116728	897590	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	89	108	20	20	100.00	100.00	YES
+OZ116923	1222833	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	569607	569588	20	20	100.00	100.00	YES
+OZ116923	1222833	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	1043588	1043569	20	20	100.00	100.00	YES
+OZ116922	1107062	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	536710	536691	20	20	100.00	100.00	YES
+OZ116922	1107062	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	904475	904456	20	20	100.00	100.00	YES
+OZ116922	1107062	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	1019546	1019527	20	20	100.00	100.00	YES
+OZ116922	1107062	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	1101985	1101966	20	20	100.00	100.00	YES
+OZ116922	1107062	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	435079	435098	20	20	100.00	100.00	YES
+OZ116922	1107062	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	904752	904771	20	20	100.00	100.00	YES
+OZ116922	1107062	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	1021401	1021420	20	20	100.00	100.00	YES
+OZ116922	1107062	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	1092087	1092106	20	20	100.00	100.00	YES
+OZ116921	1031096	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	5468	5449	20	20	100.00	100.00	YES
+OZ116921	1031096	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	29340	29321	20	20	100.00	100.00	YES
+OZ116919	1007122	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	1007036	1007017	20	20	100.00	100.00	YES
+OZ116919	1007122	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	884963	884982	20	20	100.00	100.00	YES
+OZ116720	495993	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	495907	495888	20	20	100.00	100.00	YES
+OZ116917	933280	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	536403	536384	20	20	100.00	100.00	YES
+OZ116917	933280	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	662820	662801	20	20	100.00	100.00	YES
+OZ116917	933280	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	242666	242685	20	20	100.00	100.00	YES
+OZ116917	933280	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	656107	656126	20	20	100.00	100.00	YES
+OZ116916	905029	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	631099	631080	20	20	100.00	100.00	YES
+OZ116916	905029	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	813536	813517	20	20	100.00	100.00	YES
+OZ116916	905029	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	656478	656497	20	20	100.00	100.00	YES
+OZ116916	905029	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	671783	671802	20	20	100.00	100.00	YES
+OZ116914	733858	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	733662	733643	20	20	100.00	100.00	YES
+OZ116914	733858	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	285245	285264	20	20	100.00	100.00	YES
+OZ116914	733858	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	372791	372810	20	20	100.00	100.00	YES
+CP002185	4900968	5.9		Escherichia coli W	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2017	1	20	292820	292801	20	20	100.00	100.00	YES
+CP001383	4650856	5.9		Shigella flexneri 2002017	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2014	1	20	1528854	1528835	20	20	100.00	100.00	YES
+CP001383	4650856	5.9		Shigella flexneri 2002017	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2014	1	20	1528861	1528880	20	20	100.00	100.00	YES
+FM207659	3755	5.9		Oncorhynchus mykiss	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii; Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus	2016	1	20	3745	3726	20	20	100.00	100.00	YES
+FN394965	2136	5.9		synthetic construct	other sequences; artificial sequences	2009	1	20	25	6	20	20	100.00	100.00	YES
+FN394965	2136	5.9		synthetic construct	other sequences; artificial sequences	2009	1	20	2112	2131	20	20	100.00	100.00	YES
+CP001396	4578159	5.9		Escherichia coli BW2952	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2014	1	20	4180276	4180257	20	20	100.00	100.00	YES
+CP001396	4578159	5.9		Escherichia coli BW2952	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2014	1	20	4180339	4180358	20	20	100.00	100.00	YES
+AP009240	4887515	5.9		Escherichia coli SE11	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2016	1	20	2660291	2660272	20	20	100.00	100.00	YES
+CP000800	4979619	5.9		Escherichia coli O139:H28 str. E24377A	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2014	1	20	1062207	1062188	20	20	100.00	100.00	YES
+AY738638	4791	5.9		Cloning vector pJK95	other sequences; artificial sequences; vectors	2004	1	20	40	21	20	20	100.00	100.00	YES
+AY738638	4791	5.9		Cloning vector pJK95	other sequences; artificial sequences; vectors	2004	1	20	3290	3309	20	20	100.00	100.00	YES
+M33723	240	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2016	1	20	21	2	20	20	100.00	100.00	YES
+M33723	240	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2016	1	20	84	103	20	20	100.00	100.00	YES
+M33730	233	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2008	1	20	224	205	20	20	100.00	100.00	YES
+M33728	82	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2002	1	20	73	54	20	20	100.00	100.00	YES
+AY781408	1808	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	26	7	20	20	100.00	100.00	YES
+AY781408	1808	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	1783	1802	20	20	100.00	100.00	YES
+AY781407	2037	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	26	7	20	20	100.00	100.00	YES
+AY781407	2037	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	2012	2031	20	20	100.00	100.00	YES
+AY781406	2162	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	26	7	20	20	100.00	100.00	YES
+AY781406	2162	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	2137	2156	20	20	100.00	100.00	YES
+AY781405	1351	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	26	7	20	20	100.00	100.00	YES
+AY781405	1351	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	1326	1345	20	20	100.00	100.00	YES
+AY781404	1319	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	26	7	20	20	100.00	100.00	YES
+AY781404	1319	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	1294	1313	20	20	100.00	100.00	YES
+AY781403	1937	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	26	7	20	20	100.00	100.00	YES
+AY781403	1937	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	1912	1931	20	20	100.00	100.00	YES
+AY781402	2062	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	26	7	20	20	100.00	100.00	YES
+AY781402	2062	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	2037	2056	20	20	100.00	100.00	YES
+AY781401	1524	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	26	7	20	20	100.00	100.00	YES
+AY781401	1524	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	1499	1518	20	20	100.00	100.00	YES
+AY781400	2933	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	26	7	20	20	100.00	100.00	YES
+AY781400	2933	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	2908	2927	20	20	100.00	100.00	YES
+AY781399	2413	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	26	7	20	20	100.00	100.00	YES
+AY781399	2413	5.9		synthetic construct	other sequences; artificial sequences	2005	1	20	2388	2407	20	20	100.00	100.00	YES
+M16227	57	5.9		synthetic construct	other sequences; artificial sequences	1988	1	20	34	15	20	20	100.00	100.00	YES
+M12560	120	5.9		synthetic construct	other sequences; artificial sequences	1988	1	20	26	7	20	20	100.00	100.00	YES
+J05260	15611	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	1994	1	20	15514	15495	20	20	100.00	100.00	YES
+M33745	59	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2006	1	20	50	31	20	20	100.00	100.00	YES
+M33744	94	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2006	1	20	85	66	20	20	100.00	100.00	YES
+M33743	69	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2006	1	20	60	41	20	20	100.00	100.00	YES
+M33742	81	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2006	1	20	72	53	20	20	100.00	100.00	YES
+M33741	87	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2006	1	20	78	59	20	20	100.00	100.00	YES
+M33740	78	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2006	1	20	69	50	20	20	100.00	100.00	YES
+M33739	70	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2006	1	20	61	42	20	20	100.00	100.00	YES
+M33738	116	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2006	1	20	107	88	20	20	100.00	100.00	YES
+M33737	82	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2006	1	20	73	54	20	20	100.00	100.00	YES
+M33736	67	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2006	1	20	58	39	20	20	100.00	100.00	YES
+M33735	106	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2006	1	20	97	78	20	20	100.00	100.00	YES
+M33734	67	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2006	1	20	58	39	20	20	100.00	100.00	YES
+M33733	66	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2006	1	20	57	38	20	20	100.00	100.00	YES
+M33732	88	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2016	1	20	79	60	20	20	100.00	100.00	YES
+M33729	94	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2016	1	20	85	66	20	20	100.00	100.00	YES
+M33727	97	5.9		Escherichia coli K-12	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2008	1	20	88	69	20	20	100.00	100.00	YES
+M33726	242	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2008	1	20	233	214	20	20	100.00	100.00	YES
+M33725	183	5.9		Escherichia coli K-12	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2008	1	20	174	155	20	20	100.00	100.00	YES
+M33724	171	5.9		Escherichia coli K-12	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2016	1	20	162	143	20	20	100.00	100.00	YES
+CP195759	5199568	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2025	1	20	2197385	2197404	20	20	100.00	100.00	YES
+AP041814	5144898	5.9		Escherichia coli O166:H15	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2025	1	20	1524241	1524260	20	20	100.00	100.00	YES
+LC501621	122814	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2019	1	20	78317	78336	20	20	100.00	100.00	YES
+CP191938	41355	5.9		Actinoplanes sp. CA-151224	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Micromonosporales; Micromonosporaceae; Actinoplanes	2025	1	20	41333	41352	20	20	100.00	100.00	YES
+CP194214	6803911	5.9		Pseudomonas aeruginosa	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas	2025	1	20	90	109	20	20	100.00	100.00	YES
+CP042613	2506	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2019	1	20	1535	1554	20	20	100.00	100.00	YES
+CP042611	3089	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2019	1	20	3049	3068	20	20	100.00	100.00	YES
+OZ040524	4992585	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	3237965	3237984	20	20	100.00	100.00	YES
+OZ039547	4861953	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	2542968	2542987	20	20	100.00	100.00	YES
+OZ038632	4940918	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	383588	383607	20	20	100.00	100.00	YES
+CP163811	5086505	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	837981	838000	20	20	100.00	100.00	YES
+CP164993	5161075	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	2255164	2255183	20	20	100.00	100.00	YES
+CP169244	4865459	5.9		Arcticibacter sp. MXS-1	Bacteria; Pseudomonadati; Bacteroidota; Sphingobacteriia; Sphingobacteriales; Sphingobacteriaceae; Arcticibacter	2024	1	20	2411939	2411958	20	20	100.00	100.00	YES
+CP030196	4869528	5.9		Salmonella enterica	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella	2018	1	20	748249	748268	20	20	100.00	100.00	YES
+PQ065999	42188	5.9		Proteus phage vB_PmiA_PM1	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Autographivirales	2024	1	20	42039	42058	20	20	100.00	100.00	YES
+CP027447	5168620	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2018	1	20	801387	801406	20	20	100.00	100.00	YES
+CP026810	4531304	5.9		Shigella boydii	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	2972086	2972105	20	20	100.00	100.00	YES
+CP026803	4481548	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2019	1	20	2806577	2806596	20	20	100.00	100.00	YES
+CP025979	4671322	5.9		Escherichia marmotae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2018	1	20	1718698	1718717	20	20	100.00	100.00	YES
+CP026085	4833062	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2018	1	20	3778832	3778851	20	20	100.00	100.00	YES
+CP159695	155962	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	20	37	56	20	20	100.00	100.00	YES
+CP159662	141533	5.9		Klebsiella pneumoniae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae complex	2024	1	20	34	53	20	20	100.00	100.00	YES
+CP159650	5251226	5.9		Klebsiella pneumoniae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae complex	2024	1	20	35	54	20	20	100.00	100.00	YES
+NC_027382	37146	5.9		Shigella phage SfMu	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Caudoviricetes incertae sedis; Muvirus; Muvirus SfMu	2023	1	20	37126	37145	20	20	100.00	100.00	YES
+NC_000929	36717	5.9		Escherichia phage Mu	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Caudoviricetes incertae sedis; Muvirus; Muvirus mu	2023	1	20	36697	36716	20	20	100.00	100.00	YES
+CP152071	3023903	5.9		Vibrio cholerae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio	2024	1	20	124	143	20	20	100.00	100.00	YES
+OZ076271	527577	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	85	104	20	20	100.00	100.00	YES
+OZ076269	470130	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	90	109	20	20	100.00	100.00	YES
+OZ076237	752577	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	502761	502780	20	20	100.00	100.00	YES
+OZ076235	791815	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	589430	589449	20	20	100.00	100.00	YES
+OZ076229	450014	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	284990	285009	20	20	100.00	100.00	YES
+OZ076122	754932	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	20	91	110	20	20	100.00	100.00	YES
+CP150064	25497	5.9		Borrelia miyamotoi	Bacteria; Pseudomonadati; Spirochaetota; Spirochaetia; Spirochaetales; Borreliaceae; Borrelia	2024	1	20	7005	7024	20	20	100.00	100.00	YES
+OZ037288	262344	5.9		Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo	2024	1	20	75	94	20	20	100.00	100.00	YES
+KX805726	3972	5.9		synthetic construct	other sequences; artificial sequences	2016	1	20	23	42	20	20	100.00	100.00	YES
+KX802869	4468	5.9		synthetic construct	other sequences; artificial sequences	2016	1	20	25	44	20	20	100.00	100.00	YES
+KX802492	3258	5.9		synthetic construct	other sequences; artificial sequences	2016	1	20	25	44	20	20	100.00	100.00	YES
+KX797231	3136	5.9		synthetic construct	other sequences; artificial sequences	2016	1	20	27	46	20	20	100.00	100.00	YES
+KX795680	3645	5.9		synthetic construct	other sequences; artificial sequences	2016	1	20	29	48	20	20	100.00	100.00	YES
+CP109469	64450	5.9		Streptomyces sp. NBC_01463	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2024	1	20	64362	64381	20	20	100.00	100.00	YES
+CP108521	11338389	5.9		Streptomyces sp. NBC_01231	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2024	1	20	44	63	20	20	100.00	100.00	YES
+CP141090	4736141	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	4267554	4267573	20	20	100.00	100.00	YES
+OY982526	1124243	5.9		Macaca mulatta	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Cercopithecidae; Cercopithecinae; Macaca	2023	1	20	65	84	20	20	100.00	100.00	YES
+OY982521	1113821	5.9		Macaca mulatta	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Cercopithecidae; Cercopithecinae; Macaca	2023	1	20	71	90	20	20	100.00	100.00	YES
+OY982520	1078203	5.9		Macaca mulatta	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Cercopithecidae; Cercopithecinae; Macaca	2023	1	20	563739	563758	20	20	100.00	100.00	YES
+OY982516	944988	5.9		Macaca mulatta	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Cercopithecidae; Cercopithecinae; Macaca	2023	1	20	75	94	20	20	100.00	100.00	YES
+OY982514	792548	5.9		Macaca mulatta	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Cercopithecidae; Cercopithecinae; Macaca	2023	1	20	507035	507054	20	20	100.00	100.00	YES
+AP027709	5042533	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	530447	530466	20	20	100.00	100.00	YES
+OY754452	5007898	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	1163945	1163964	20	20	100.00	100.00	YES
+OY754452	5007898	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	1661129	1661148	20	20	100.00	100.00	YES
+OY754452	5007898	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	4454486	4454505	20	20	100.00	100.00	YES
+OY754442	4663521	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2379393	2379412	20	20	100.00	100.00	YES
+AH001321	540	5.9		Escherichia phage Mu	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Caudoviricetes incertae sedis; Muvirus; Muvirus mu	2016	1	20	520	539	20	20	100.00	100.00	YES
+AH001322	457	5.9		Escherichia phage Mu	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Caudoviricetes incertae sedis; Muvirus; Muvirus mu	2016	1	20	418	437	20	20	100.00	100.00	YES
+AH001320	232	5.9		Escherichia phage Mu	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Caudoviricetes incertae sedis; Muvirus; Muvirus mu	2016	1	20	182	201	20	20	100.00	100.00	YES
+CP015229	5498453	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2016	1	20	1960184	1960203	20	20	100.00	100.00	YES
+CP120995	4576	5.9		Streptomyces laculatispora	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2023	1	20	94	113	20	20	100.00	100.00	YES
+CP120995	4576	5.9		Streptomyces laculatispora	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2023	1	20	739	758	20	20	100.00	100.00	YES
+CP120993	121712	5.9		Streptomyces laculatispora	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2023	1	20	107	126	20	20	100.00	100.00	YES
+CP131585	1623816	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	897474	897493	20	20	100.00	100.00	YES
+CP131585	1623816	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	903453	903472	20	20	100.00	100.00	YES
+CP131586	3973605	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	2035449	2035468	20	20	100.00	100.00	YES
+CP131574	1533975	5.9		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	20	985408	985427	20	20	100.00	100.00	YES
+CP122609	5218393	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2275555	2275574	20	20	100.00	100.00	YES
+CP122740	5251932	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2274029	2274048	20	20	100.00	100.00	YES
+CP122733	5287629	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2292031	2292050	20	20	100.00	100.00	YES
+CP122751	5286207	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2290710	2290729	20	20	100.00	100.00	YES
+CP122801	5272521	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2194883	2194902	20	20	100.00	100.00	YES
+CP122823	5272534	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2194893	2194912	20	20	100.00	100.00	YES
+CP122852	5708961	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2576413	2576432	20	20	100.00	100.00	YES
+CP122895	4997915	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2806668	2806687	20	20	100.00	100.00	YES
+CP122923	5178687	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2645612	2645631	20	20	100.00	100.00	YES
+CP119740	5138043	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	2143279	2143298	20	20	100.00	100.00	YES
+CP118014	5062632	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2023	1	20	4511509	4511528	20	20	100.00	100.00	YES
+OP611406	48780	5.9		Klebsiella phage mfs	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Caudoviricetes incertae sedis; Drexlerviridae; Webervirus; Webervirus mfs	2022	1	20	85	104	20	20	100.00	100.00	YES
+CP104206	4859767	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	3678883	3678902	20	20	100.00	100.00	YES
+CP104206	4859767	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	4235692	4235711	20	20	100.00	100.00	YES
+OP073397	36601	5.9		Bacteriophage sp.	Viruses	2022	1	20	36477	36496	20	20	100.00	100.00	YES
+CP076279	5035328	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	1860647	1860666	20	20	100.00	100.00	YES
+CP101961	5094615	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	3140378	3140397	20	20	100.00	100.00	YES
+AP026495	4990655	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	2702714	2702733	20	20	100.00	100.00	YES
+CP098195	5033923	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	1091489	1091508	20	20	100.00	100.00	YES
+CP098183	4742047	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	2313905	2313924	20	20	100.00	100.00	YES
+CP091700	4868848	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	3718769	3718788	20	20	100.00	100.00	YES
+CP091044	5104329	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	1958859	1958878	20	20	100.00	100.00	YES
+CP061229	5112390	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	4329454	4329473	20	20	100.00	100.00	YES
+CP087377	5230678	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	1996593	1996612	20	20	100.00	100.00	YES
+CP086627	5199059	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	2030442	2030461	20	20	100.00	100.00	YES
+CP086626	5230471	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	2031166	2031185	20	20	100.00	100.00	YES
+CP086622	5262226	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	2031120	2031139	20	20	100.00	100.00	YES
+CP086616	5166862	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	1975478	1975497	20	20	100.00	100.00	YES
+CP086618	5210076	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	1960004	1960023	20	20	100.00	100.00	YES
+CP086625	5254248	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	2000481	2000500	20	20	100.00	100.00	YES
+CP086623	5248035	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	2032739	2032758	20	20	100.00	100.00	YES
+CP086620	5231074	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	2031894	2031913	20	20	100.00	100.00	YES
+CP086624	5242232	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	1997131	1997150	20	20	100.00	100.00	YES
+CP083503	5176326	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	2313034	2313053	20	20	100.00	100.00	YES
+CP082436	4652872	5.9		Salmonella enterica subsp. enterica serovar Montevideo	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella	2022	1	20	2384712	2384731	20	20	100.00	100.00	YES
+AP024518	4971834	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	4146787	4146806	20	20	100.00	100.00	YES
+MW567498	94860	5.9		Salmonella enterica subsp. enterica serovar Meleagridis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella	2021	1	20	8002	8021	20	20	100.00	100.00	YES
+4FCY_C	68	5.9		Muvirus mu	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Caudoviricetes incertae sedis; Muvirus	2024	1	20	30	49	20	20	100.00	100.00	YES
+CP068813	5230678	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2021	1	20	1996593	1996612	20	20	100.00	100.00	YES
+CP066809	4519004	5.9		Shigella flexneri 3a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2021	1	20	3261954	3261973	20	20	100.00	100.00	YES
+CP065624	4939520	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2020	1	20	1155836	1155855	20	20	100.00	100.00	YES
+CP062196	3490523	5.9		Plesiomonas shigelloides	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Plesiomonas	2020	1	20	2463952	2463971	20	20	100.00	100.00	YES
+LR878365	4522047	5.9		Shigella flexneri 3a	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2021	1	20	3264880	3264899	20	20	100.00	100.00	YES
+CP061644	6162	5.9		Acinetobacter seifertii	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Moraxellales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex	2020	1	20	3117	3136	20	20	100.00	100.00	YES
+LR861788	4522608	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2020	1	20	3265781	3265800	20	20	100.00	100.00	YES
+LR861785	4522850	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2020	1	20	3265993	3266012	20	20	100.00	100.00	YES
+CP060709	4825686	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2020	1	20	393574	393593	20	20	100.00	100.00	YES
+CP060709	4825686	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2020	1	20	503561	503580	20	20	100.00	100.00	YES
+CP058063	5091098	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	3745090	3745109	20	20	100.00	100.00	YES
+CP057888	5217899	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	671189	671208	20	20	100.00	100.00	YES
+CP057879	5217899	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	671189	671208	20	20	100.00	100.00	YES
+CP057408	5301629	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	857103	857122	20	20	100.00	100.00	YES
+CP057302	5167871	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	857038	857057	20	20	100.00	100.00	YES
+CP057293	5167871	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	857038	857057	20	20	100.00	100.00	YES
+CP057075	5354666	5.9		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2022	1	20	859060	859079	20	20	100.00	100.00	YES
+CP058589	4682307	5.9		Shigella flexneri	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella	2020	1	20	1555168	1555187	20	20	100.00	100.00	YES
+OZ116909	534336	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	88	107	20	20	100.00	100.00	YES
+OZ116908	502463	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	36023	36042	20	20	100.00	100.00	YES
+OZ116908	502463	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	132841	132860	20	20	100.00	100.00	YES
+OZ116908	502463	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	255576	255595	20	20	100.00	100.00	YES
+OZ116906	140801	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	88189	88208	20	20	100.00	100.00	YES
+OZ116901	1038315	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	125615	125634	20	20	100.00	100.00	YES
+OZ117205	528058	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	87	106	20	20	100.00	100.00	YES
+OZ117203	471221	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	88	107	20	20	100.00	100.00	YES
+OZ117176	1448332	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	1447785	1447804	20	20	100.00	100.00	YES
+OZ117160	475232	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	86	105	20	20	100.00	100.00	YES
+OZ117152	1026279	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	89	108	20	20	100.00	100.00	YES
+OZ117147	814716	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	88	107	20	20	100.00	100.00	YES
+OZ117141	501153	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	88	107	20	20	100.00	100.00	YES
+OZ117112	1083450	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	330413	330432	20	20	100.00	100.00	YES
+OZ117111	999314	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	473530	473549	20	20	100.00	100.00	YES
+OZ117111	999314	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	583850	583869	20	20	100.00	100.00	YES
+OZ117108	1034781	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	84	103	20	20	100.00	100.00	YES
+OZ117107	950931	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	91	110	20	20	100.00	100.00	YES
+OZ117107	950931	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	546413	546432	20	20	100.00	100.00	YES
+OZ117106	888615	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	630441	630460	20	20	100.00	100.00	YES
+OZ117106	888615	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	886342	886361	20	20	100.00	100.00	YES
+OZ117104	725153	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	86	105	20	20	100.00	100.00	YES
+OZ117103	781928	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	201602	201621	20	20	100.00	100.00	YES
+OZ117102	783923	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	351412	351431	20	20	100.00	100.00	YES
+OZ117101	692187	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	76	95	20	20	100.00	100.00	YES
+OZ117101	692187	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	3061	3080	20	20	100.00	100.00	YES
+OZ116897	917852	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	328264	328283	20	20	100.00	100.00	YES
+OZ116897	917852	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	895731	895750	20	20	100.00	100.00	YES
+OZ116896	888554	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	127236	127255	20	20	100.00	100.00	YES
+OZ116896	888554	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	754852	754871	20	20	100.00	100.00	YES
+OZ117078	501400	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	86	105	20	20	100.00	100.00	YES
+OZ116860	1082997	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	937181	937200	20	20	100.00	100.00	YES
+OZ116856	971212	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	89	108	20	20	100.00	100.00	YES
+OZ116845	329241	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	139106	139125	20	20	100.00	100.00	YES
+OZ117040	734935	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	92	111	20	20	100.00	100.00	YES
+OZ117034	318881	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	91	110	20	20	100.00	100.00	YES
+OZ116833	894004	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	89	108	20	20	100.00	100.00	YES
+OZ117020	781469	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	87	106	20	20	100.00	100.00	YES
+OZ117015	489133	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	90	109	20	20	100.00	100.00	YES
+OZ116805	491771	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	88	107	20	20	100.00	100.00	YES
+OZ116996	726451	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	82	101	20	20	100.00	100.00	YES
+OZ116979	813258	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	87	106	20	20	100.00	100.00	YES
+OZ116977	727240	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	82	101	20	20	100.00	100.00	YES
+OZ116776	1076254	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	229027	229046	20	20	100.00	100.00	YES
+OZ116973	501213	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	75	94	20	20	100.00	100.00	YES
+OZ116768	741690	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	528675	528694	20	20	100.00	100.00	YES
+OZ116763	635674	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	90	109	20	20	100.00	100.00	YES
+OZ116763	635674	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	23285	23304	20	20	100.00	100.00	YES
+OZ116762	455038	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	384607	384626	20	20	100.00	100.00	YES
+OZ116952	522025	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	86	105	20	20	100.00	100.00	YES
+OZ116952	522025	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	521967	521986	20	20	100.00	100.00	YES
+OZ116736	1368800	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	87	106	20	20	100.00	100.00	YES
+OZ116920	1023375	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	427851	427870	20	20	100.00	100.00	YES
+OZ116915	777067	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	620367	620386	20	20	100.00	100.00	YES
+OZ116915	777067	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	20	660290	660309	20	20	100.00	100.00	YES
+AY860420	37199	5.9		Cloning vector MuNXKan	other sequences; artificial sequences; vectors	2005	1	20	37179	37198	20	20	100.00	100.00	YES
+K01279	236	5.9		Escherichia phage Mu	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Caudoviricetes incertae sedis; Muvirus; Muvirus mu	2016	1	20	201	220	20	20	100.00	100.00	YES
+K01278	248	5.9		Escherichia phage Mu	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Caudoviricetes incertae sedis; Muvirus; Muvirus mu	2016	1	20	201	220	20	20	100.00	100.00	YES
+K01277	228	5.9		Escherichia phage Mu	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Caudoviricetes incertae sedis; Muvirus; Muvirus mu	2016	1	20	201	220	20	20	100.00	100.00	YES
+M10177	82	5.9		Escherichia phage Mu	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Caudoviricetes incertae sedis; Muvirus; Muvirus mu	1988	1	20	62	81	20	20	100.00	100.00	YES
+M15949	324	5.9		synthetic construct	other sequences; artificial sequences	1989	1	20	303	322	20	20	100.00	100.00	YES
+X05582	220	5.9		Escherichia phage Mu	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Caudoviricetes incertae sedis; Muvirus; Muvirus mu	1988	1	20	200	219	20	20	100.00	100.00	YES

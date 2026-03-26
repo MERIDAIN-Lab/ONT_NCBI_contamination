@@ -1,0 +1,6 @@
+Accession	Length	E-value	Definition	Organism	Taxonomy	Release Year	query_start	query_end	subject_start	subject_end	Align_Length	Query_Length	Identity(%)	Coverage(%)	Pass_Filter
+PV921546	5868	0.024		Chytriomyces hyalinus	Eukaryota; Fungi; Fungi incertae sedis; Chytridiomycota; Chytridiomycota incertae sedis; Chytridiomycetes; Chytridiales; Chytriomycetaceae; Chytriomyces	2025	1	24	4790	4767	24	24	100.00	100.00	YES
+OZ186234	34087700	5.9		Erebia meolans	Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata; Ditrysia; Papilionoidea; Nymphalidae; Satyrinae; Erebiini; Erebia	2024	5	24	32788588	32788607	20	24	100.00	83.00	YES
+XM_068132226	2708	5.9		Myxine glutinosa	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata; Myxini; Myxiniformes; Myxinidae; Myxininae; Myxine	2026	2	21	636	655	20	24	100.00	83.00	YES
+XM_068132224	2871	5.9		Myxine glutinosa	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata; Myxini; Myxiniformes; Myxinidae; Myxininae; Myxine	2026	2	21	799	818	20	24	100.00	83.00	YES
+XR_013620972	2734	5.9		Myxine glutinosa	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata; Myxini; Myxiniformes; Myxinidae; Myxininae; Myxine	2026	2	21	771	790	20	24	100.00	83.00	YES

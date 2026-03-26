@@ -1,0 +1,6 @@
+
+# Large reports handled via Zenodo
+ONT_catalogue_shearch_results_March_2026/*.xlsx
+
+# Exclude 16S-derived annotated outputs
+ONT_catalogue_shearch_results_March_2026/shortblast_outputs/annotated_tables/*16S*

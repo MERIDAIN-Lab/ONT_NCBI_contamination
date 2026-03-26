@@ -1,0 +1,93 @@
+Accession	Length	E-value	Definition	Organism	Taxonomy	Release Year	query_start	query_end	subject_start	subject_end	Align_Length	Query_Length	Identity(%)	Coverage(%)	Pass_Filter
+CP145548	895516	0.024		Candidozyma auris	Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Pichiomycetes; Metschnikowiaceae; Candidozyma	2025	1	24	786279	786302	24	24	100.00	100.00	YES
+CP145548	895516	0.024		Candidozyma auris	Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Pichiomycetes; Metschnikowiaceae; Candidozyma	2025	1	24	895468	895491	24	24	100.00	100.00	YES
+CP145546	4199451	0.024		Candidozyma auris	Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Pichiomycetes; Metschnikowiaceae; Candidozyma	2025	1	24	50	27	24	24	100.00	100.00	YES
+CP145546	4199451	0.024		Candidozyma auris	Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Pichiomycetes; Metschnikowiaceae; Candidozyma	2025	1	24	4199394	4199417	24	24	100.00	100.00	YES
+CP145545	1705741	0.024		Candidozyma auris	Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Pichiomycetes; Metschnikowiaceae; Candidozyma	2025	1	24	1705690	1705713	24	24	100.00	100.00	YES
+CP145544	1094497	0.024		Candidozyma auris	Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Pichiomycetes; Metschnikowiaceae; Candidozyma	2025	1	24	1094440	1094463	24	24	100.00	100.00	YES
+CP145540	2326569	0.024		Candidozyma auris	Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Pichiomycetes; Metschnikowiaceae; Candidozyma	2025	1	24	54	31	24	24	100.00	100.00	YES
+CP145540	2326569	0.024		Candidozyma auris	Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Pichiomycetes; Metschnikowiaceae; Candidozyma	2025	1	24	2326512	2326535	24	24	100.00	100.00	YES
+CP174315	122680	0.024		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	24	25708	25731	24	24	100.00	100.00	YES
+PP906238	612	0.024		Cladosporium sp.	Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Dothideomycetes; Dothideomycetidae; Cladosporiales; Cladosporiaceae; Cladosporium	2025	1	24	573	596	24	24	100.00	100.00	YES
+CP194766	6918046	0.024		Paenibacillus lautus	Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus	2025	1	24	6917899	6917876	24	24	100.00	100.00	YES
+CP191938	41355	0.024		Actinoplanes sp. CA-151224	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Micromonosporales; Micromonosporaceae; Actinoplanes	2025	1	24	41280	41303	24	24	100.00	100.00	YES
+PV391125	1594	0.024		Pantoea sp.	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Erwiniaceae; Pantoea	2025	1	24	38	15	24	24	100.00	100.00	YES
+PV391125	1594	0.024		Pantoea sp.	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Erwiniaceae; Pantoea	2025	1	24	1557	1580	24	24	100.00	100.00	YES
+CP184732	10060	0.024		Klebsiella pneumoniae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae complex	2025	1	24	63	40	24	24	100.00	100.00	YES
+CP184732	10060	0.024		Klebsiella pneumoniae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae complex	2025	1	24	9992	10015	24	24	100.00	100.00	YES
+PV254729	1590	0.024		Edwardsiella tarda	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Hafniaceae; Edwardsiella	2025	1	24	32	9	24	24	100.00	100.00	YES
+PV254729	1590	0.024		Edwardsiella tarda	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Hafniaceae; Edwardsiella	2025	1	24	1553	1576	24	24	100.00	100.00	YES
+MN135763	4135	0.024		uncultured Parasutterella sp.	Bacteria; Pseudomonadati; Pseudomonadota; Betaproteobacteria; Burkholderiales; Sutterellaceae; Parasutterella; environmental samples	2019	1	24	26	49	24	24	100.00	100.00	YES
+MN135762	4323	0.024		uncultured Parasutterella sp.	Bacteria; Pseudomonadati; Pseudomonadota; Betaproteobacteria; Burkholderiales; Sutterellaceae; Parasutterella; environmental samples	2019	1	24	13	36	24	24	100.00	100.00	YES
+PV137628	4656	0.024		Protoparvovirus sp.	Viruses; Monodnaviria; Shotokuvirae; Cossaviricota; Quintoviricetes; Piccovirales; Parvoviridae; Parvovirinae; Protoparvovirus	2025	1	24	4633	4656	24	24	100.00	100.00	YES
+PV137628	4656	0.096		Protoparvovirus sp.	Viruses; Monodnaviria; Shotokuvirae; Cossaviricota; Quintoviricetes; Piccovirales; Parvoviridae; Parvovirinae; Protoparvovirus	2025	1	23	23	1	23	24	100.00	100.00	YES
+CP177076	173457	0.024		Streptomyces fradiae	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2025	1	24	35	12	24	24	100.00	100.00	YES
+CP151160	17534	0.024		Ligilactobacillus salivarius	Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales; Lactobacillaceae; Ligilactobacillus	2025	1	24	17495	17518	24	24	100.00	100.00	YES
+MK356559	10218	0.024		Salmonella sp.	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella	2019	1	24	2	25	24	24	100.00	100.00	YES
+CP165501	39350	0.024		Escherichia coli	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia	2024	1	24	39315	39292	24	24	100.00	100.00	YES
+CP170746	7528720	0.024		Chlorogloeopsis fritschii PCC 6912	Bacteria; Bacillati; Cyanobacteriota; Cyanophyceae; Nostocales; Chlorogloeopsidaceae; Chlorogloeopsis	2024	1	24	4083290	4083267	24	24	100.00	100.00	YES
+CP170746	7528720	0.024		Chlorogloeopsis fritschii PCC 6912	Bacteria; Bacillati; Cyanobacteriota; Cyanophyceae; Nostocales; Chlorogloeopsidaceae; Chlorogloeopsis	2024	1	24	5127663	5127640	24	24	100.00	100.00	YES
+CP170746	7528720	0.024		Chlorogloeopsis fritschii PCC 6912	Bacteria; Bacillati; Cyanobacteriota; Cyanophyceae; Nostocales; Chlorogloeopsidaceae; Chlorogloeopsis	2024	1	24	5668280	5668303	24	24	100.00	100.00	YES
+CP170746	7528720	0.024		Chlorogloeopsis fritschii PCC 6912	Bacteria; Bacillati; Cyanobacteriota; Cyanophyceae; Nostocales; Chlorogloeopsidaceae; Chlorogloeopsis	2024	1	24	5682155	5682132	24	24	100.00	100.00	YES
+PP989835	13504	0.024		Salmonella phage vB_SE127_2PH123	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Caudoviricetes incertae sedis; Sarkviridae; Guernseyvirinae; Jerseyvirus	2024	1	24	13460	13483	24	24	100.00	100.00	YES
+CP168301	3056188	0.024		Vibrio cholerae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio	2024	1	24	32	9	24	24	100.00	100.00	YES
+CP168301	3056188	0.024		Vibrio cholerae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio	2024	1	24	3056023	3056046	24	24	100.00	100.00	YES
+CP168300	1041023	0.024		Vibrio cholerae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio	2024	1	24	43	20	24	24	100.00	100.00	YES
+CP168300	1041023	0.024		Vibrio cholerae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio	2024	1	24	1040882	1040905	24	24	100.00	100.00	YES
+OZ076240	949366	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	24	10	33	24	24	100.00	100.00	YES
+OZ076240	949366	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	24	145247	145270	24	24	100.00	100.00	YES
+OZ076240	949366	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	24	515970	515947	24	24	100.00	100.00	YES
+OZ076240	949366	0.38		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	3	24	863798	863819	22	24	100.00	100.00	YES
+OZ076237	752577	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	24	502708	502731	24	24	100.00	100.00	YES
+OZ076237	752577	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	24	545428	545405	24	24	100.00	100.00	YES
+OZ076237	752577	0.38		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	3	24	223573	223594	22	24	100.00	100.00	YES
+OZ076236	817623	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	24	214483	214460	24	24	100.00	100.00	YES
+OZ076235	791815	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	24	10	33	24	24	100.00	100.00	YES
+OZ076234	826862	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	24	151404	151381	24	24	100.00	100.00	YES
+OZ076233	727688	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	24	14	37	24	24	100.00	100.00	YES
+OZ076233	727688	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	5	24	563773	563754	20	24	100.00	100.00	YES
+OZ076229	450014	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	24	284937	284960	24	24	100.00	100.00	YES
+OZ076227	377598	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	24	250456	250479	24	24	100.00	100.00	YES
+OZ076226	392775	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	24	236611	236634	24	24	100.00	100.00	YES
+OZ076226	392775	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	24	290706	290729	24	24	95.83	100.00	YES
+PP593806	888	0.024		Klebsiella pneumoniae subsp. pneumoniae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae complex	2024	1	24	43	66	24	24	100.00	100.00	YES
+PP463027	1556	0.024		uncultured Ureaplasma sp.	Bacteria; Bacillati; Mycoplasmatota; Mycoplasmoidales; Mycoplasmoidaceae; Ureaplasma; environmental samples	2024	1	24	35	12	24	24	100.00	100.00	YES
+PP463026	1587	0.024		uncultured Pseudomonas sp.	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; environmental samples	2024	1	24	1559	1582	24	24	100.00	100.00	YES
+OQ450240	4453	0.024		uncultured Oscillospiraceae bacterium	Bacteria; Bacillati; Bacillota; Clostridia; Eubacteriales; Oscillospiraceae; environmental samples	2024	1	24	22	45	24	24	100.00	100.00	YES
+OQ450240	4453	0.024		uncultured Oscillospiraceae bacterium	Bacteria; Bacillati; Bacillota; Clostridia; Eubacteriales; Oscillospiraceae; environmental samples	2024	1	24	4438	4415	24	24	100.00	100.00	YES
+CP109584	90296	0.024		Streptomyces uncialis	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2024	1	24	60	37	24	24	100.00	100.00	YES
+PP174302	4934	0.024		Amoebozoa sp.	Eukaryota; Amoebozoa	2024	1	24	95	72	24	24	100.00	100.00	YES
+OR121049	1546	0.024		Cutibacterium sp.	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Propionibacteriales; Propionibacteriaceae; Cutibacterium	2023	1	24	5	28	24	24	100.00	100.00	YES
+OR121049	1546	0.024		Cutibacterium sp.	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Propionibacteriales; Propionibacteriaceae; Cutibacterium	2023	1	24	1539	1516	24	24	100.00	100.00	YES
+OP611406	48780	0.024		Klebsiella phage mfs	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Caudoviricetes incertae sedis; Drexlerviridae; Webervirus; Webervirus mfs	2022	1	24	61	84	24	24	100.00	100.00	YES
+OZ117171	989737	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	989707	989684	24	24	100.00	100.00	YES
+OZ117160	475232	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	33	56	24	24	100.00	100.00	YES
+OZ117122	739700	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	60	37	24	24	100.00	100.00	YES
+OZ116862	1380033	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	255503	255480	24	24	100.00	100.00	YES
+OZ116862	1380033	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	439937	439914	24	24	100.00	100.00	YES
+OZ116862	1380033	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	443491	443514	24	24	100.00	100.00	YES
+OZ116861	1146277	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	658970	658947	24	24	100.00	100.00	YES
+OZ116861	1146277	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	882060	882037	24	24	100.00	100.00	YES
+OZ116860	1082997	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	937128	937151	24	24	100.00	100.00	YES
+OZ116858	1010103	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	81253	81276	24	24	100.00	100.00	YES
+OZ116858	1010103	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	140878	140855	24	24	100.00	100.00	YES
+OZ116856	971212	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	36	59	24	24	100.00	100.00	YES
+OZ116854	901748	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	591658	591635	24	24	100.00	100.00	YES
+OZ116854	901748	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	591823	591846	24	24	100.00	100.00	YES
+OZ116854	901748	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	654386	654363	24	24	95.83	100.00	YES
+OZ116852	785066	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	543825	543802	24	24	100.00	100.00	YES
+OZ116847	647879	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	161475	161452	24	24	100.00	100.00	YES
+OZ116847	647879	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	493470	493447	24	24	100.00	100.00	YES
+OZ116845	329241	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	139053	139076	24	24	100.00	100.00	YES
+OZ116768	741690	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	46	23	24	24	100.00	100.00	YES
+OZ116944	1088380	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	61	38	24	24	100.00	100.00	YES
+OZ116942	898195	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	898136	898159	24	24	100.00	100.00	YES
+OZ116914	733858	0.024		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2025	1	24	733715	733692	24	24	100.00	100.00	YES
+OZ076241	1005388	0.38		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	3	24	417838	417817	22	24	100.00	92.00	YES
+OZ076228	532248	0.38		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	3	24	532243	532222	22	24	100.00	92.00	YES
+CP108358	214901	0.38		Streptomyces sp. NBC_01351	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces	2024	3	24	214839	214860	22	24	100.00	92.00	YES
+CP109282	171949	0.38		Streptomyces albidoflavus	Bacteria; Bacillati; Actinomycetota; Actinomycetes; Kitasatosporales; Streptomycetaceae; Streptomyces; Streptomyces albidoflavus group	2024	3	24	171889	171910	22	24	100.00	92.00	YES
+OZ319657	13212346	5.9		Caloptilia suberinella	Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata; Ditrysia; Tineoidea; Gracillariidae; Caloptilia	2025	3	22	2253053	2253072	20	24	100.00	83.00	YES
+CP174317	72713	5.9		Microbulbifer sp. SSSA002	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Cellvibrionales; Microbulbiferaceae; Microbulbifer	2025	1	24	30321	30298	24	24	95.83	100.00	YES
+OZ076238	776481	5.9		Bathycoccus prasinos	Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus	2024	1	24	645580	645557	24	24	95.83	100.00	YES
+OZ412899	79991370	5.9		Leia fascipennis	Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Endopterygota; Diptera; Nematocera; Sciaroidea; Mycetophilidae; Leiinae; Leia	2026	1	20	32188712	32188731	20	24	100.00	83.00	YES

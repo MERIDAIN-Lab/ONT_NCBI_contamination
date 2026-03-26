@@ -1,0 +1,4 @@
+Accession	Length	E-value	Definition	Organism	Taxonomy	Release Year	query_start	query_end	subject_start	subject_end	Align_Length	Query_Length	Identity(%)	Coverage(%)	Pass_Filter
+CP178576	4751215	0.024		Erwinia sp. LJJL01	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Erwiniaceae; Erwinia	2025	1	24	4751146	4751169	24	24	100.00	100.00	YES
+OZ077471	47172269	5.9		Cetorhinus maximus	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Chondrichthyes; Elasmobranchii; Galeomorphii; Galeoidea; Lamniformes; Cetorhinidae; Cetorhinus	2024	3	22	9698460	9698479	20	24	100.00	83.00	YES
+OZ253603	19390557	5.9		Lasioglossum leucozonium	Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Endopterygota; Hymenoptera; Apocrita; Aculeata; Apoidea; Anthophila; Halictidae; Halictinae; Halictini; Lasioglossum; Lasioglossum	2025	3	22	8146041	8146022	20	24	100.00	83.00	YES

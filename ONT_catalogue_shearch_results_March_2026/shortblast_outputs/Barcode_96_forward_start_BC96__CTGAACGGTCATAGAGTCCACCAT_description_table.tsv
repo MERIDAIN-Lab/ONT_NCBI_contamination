@@ -1,0 +1,4 @@
+Accession	Length	E-value	Definition	Organism	Taxonomy	Release Year	query_start	query_end	subject_start	subject_end	Align_Length	Query_Length	Identity(%)	Coverage(%)	Pass_Filter
+PQ641084	43816	0.024		Pseudomonas phage BARC01	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Autographivirales; Autoscriptoviridae; Krylovirinae; Phikmvvirus	2024	1	24	15	38	24	24	100.00	100.00	YES
+PQ641084	43816	0.024		Pseudomonas phage BARC01	Viruses; Duplodnaviria; Heunggongvirae; Uroviricota; Caudoviricetes; Autographivirales; Autoscriptoviridae; Krylovirinae; Phikmvvirus	2024	1	24	43786	43763	24	24	100.00	100.00	YES
+OZ245647	31767747	5.9		Pagrus pagrus	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Actinopterygii; Neopterygii; Teleostei; Neoteleostei; Acanthomorphata; Eupercaria; Spariformes; Sparidae; Pagrus	2025	3	22	16841862	16841843	20	24	100.00	83.00	YES

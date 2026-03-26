@@ -1,0 +1,5 @@
+Accession	Length	E-value	Definition	Organism	Taxonomy	Release Year	query_start	query_end	subject_start	subject_end	Align_Length	Query_Length	Identity(%)	Coverage(%)	Pass_Filter
+CP170735	209788	0.024		Bacillus subtilis	Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Bacillaceae; Bacillus	2024	1	24	105525	105548	24	24	100.00	100.00	YES
+OZ377231	47613560	1.5		Pygaera timon	Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata; Ditrysia; Noctuoidea; Notodontidae; Pygaerinae; Pygaera	2025	1	21	6336386	6336366	21	24	100.00	88.00	YES
+OX383274	13975790	5.9		Lithophane socia	Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata; Ditrysia; Noctuoidea; Noctuidae; Cuculliinae; Lithophane	2022	3	22	7895577	7895558	20	24	100.00	83.00	YES
+OZ373278	93113985	5.9		Nerita plicata	Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Mollusca; Gastropoda; Neritimorpha; Cycloneritida; Neritoidea; Neritidae; Nerita	2025	4	23	90878521	90878540	20	24	100.00	83.00	YES

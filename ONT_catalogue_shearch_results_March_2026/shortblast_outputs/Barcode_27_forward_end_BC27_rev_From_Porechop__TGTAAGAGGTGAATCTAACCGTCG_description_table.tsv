@@ -1,0 +1,10 @@
+Accession	Length	E-value	Definition	Organism	Taxonomy	Release Year	query_start	query_end	subject_start	subject_end	Align_Length	Query_Length	Identity(%)	Coverage(%)	Pass_Filter
+CP159246	73076	0.024		Klebsiella pneumoniae	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae complex	2025	1	24	37	14	24	24	100.00	100.00	YES
+OP597663	585	0.024		Aspergillus flavus	Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus; Aspergillus subgen. Circumdati	2022	1	24	43	20	24	24	100.00	100.00	YES
+PX438602	40373	0.024		Acinetobacter phage HA_UK	Viruses	2026	1	24	40332	40355	24	24	100.00	100.00	YES
+PX438602	40373	0.38		Acinetobacter phage HA_UK	Viruses	2026	1	22	23	2	22	24	100.00	100.00	YES
+OQ064064	1474	0.096		Mannheimia haemolytica	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Mannheimia	2022	2	24	29	7	23	24	100.00	96.00	YES
+LR584428	91488822	5.9		Salmo trutta	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii; Salmoniformes; Salmonidae; Salmoninae; Salmo	2021	1	20	7241478	7241459	20	24	100.00	83.00	YES
+OZ123231	23044209	5.9		Tubulanus polymorphus	Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Nemertea; Palaeonemertea; Tubulaniformes; Tubulanidae; Tubulanus	2024	4	23	118780	118761	20	24	100.00	83.00	YES
+OX393559	69903626	5.9		Chionographis japonica	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; Liliopsida; Liliales; Melanthiaceae; Chionographis	2023	1	20	46671809	46671828	20	24	100.00	83.00	YES
+OZ416193	26672541	5.9		Valerianella locusta	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae; asterids; campanulids; Dipsacales; Caprifoliaceae; Valerianella	2026	4	23	18908974	18908993	20	24	100.00	83.00	YES

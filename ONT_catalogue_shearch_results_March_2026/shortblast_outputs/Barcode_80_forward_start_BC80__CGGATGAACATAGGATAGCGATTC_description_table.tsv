@@ -1,0 +1,6 @@
+Accession	Length	E-value	Definition	Organism	Taxonomy	Release Year	query_start	query_end	subject_start	subject_end	Align_Length	Query_Length	Identity(%)	Coverage(%)	Pass_Filter
+CP131577	1522156	0.024		Photobacterium leiognathi subsp. mandapamensis	Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Vibrionales; Vibrionaceae; Photobacterium	2023	1	24	40	63	24	24	100.00	100.00	YES
+OZ187278	10952758	5.9		Jodis putata	Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata; Ditrysia; Geometroidea; Geometridae; Geometrinae; Jodis	2024	5	24	4629094	4629075	20	24	100.00	83.00	YES
+OZ229102	74602749	5.9		Podarcis tiliguerta	Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata; Laterata; Lacertibaenia; Lacertidae; Podarcis	2025	5	24	68827476	68827495	20	24	100.00	83.00	YES
+OZ195117	20210446	5.9					3	22	16092937	16092956	20	24	100.00	83.00	YES
+LR990212	10008955	5.9					5	24	6259037	6259056	20	24	100.00	83.00	YES
